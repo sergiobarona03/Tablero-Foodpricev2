@@ -1,0 +1,15 @@
+{
+  "hash": "0d2661d991a41d9d07a16c22550e5be5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Página Web con Shiny\"\noutput: \n  html: \n    embed-resources: true\n---\n\n\n# Titulo 1\n\n## Titulo 2\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
