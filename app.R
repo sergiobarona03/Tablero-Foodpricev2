@@ -17,9 +17,12 @@ ui <- navbarPage(
   tabPanel(
     title = "Inicio",
     fluidPage(
-      h3("Bienvenido a la Aplicación Food Price"),
-      p("Esta aplicación te permitirá la publicación y el análisis de los indicadores de costos mínimos de tres dietas (CoCA, CoNA y CoRD) y la asequibilidad.")
-    )
+     # h3("Bienvenido a la Aplicación Food Price"),
+      img(src = "food1.png", height = "800px", width = "1300px"),  # Agregar la imagen con tamaño ajustado
+      p("Portal de indicadores de costos mínimos de tres dietas (CoCA, CoNA y CoRD) y la asequibilidad."),
+      p("Pontificia Universidad Javeriana Cali - 2024"),
+      
+      )
   ),
   
 
