@@ -3,8 +3,8 @@ library(shiny)
 library(shinythemes)
 
 # Cargar módulos
-source("R/mod_filtros_costos_ui.R")
-source("R/mod_filtros_asequibilidad_ui.R")
+source("R/mod_costos_ui.R")
+source("R/mod_asequibilidad_ui.R")
 source("R/mod_filtros_ui.R")
 source("R/mod_resultados_ui.R")
 source("R/mod_info_ui.R")
