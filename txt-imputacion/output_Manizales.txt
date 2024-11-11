@@ -1,0 +1,1057 @@
+
+In the city of Manizales for the year 2013 and month January , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Berenjena, Bocachico criollo fresco, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Trucha entera fresca, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  506.9831
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1054.064CoRD: Average daily cost per 1000 kilocalories is 1777.545
+In the city of Manizales for the year 2013 and month February , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Berenjena, Bocachico criollo fresco, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Trucha entera fresca, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  501.7896
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1049.572CoRD: Average daily cost per 1000 kilocalories is 1776.094
+In the city of Manizales for the year 2013 and month March , the following foods were omitted due to lack of nutritional information: 38 : Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Berenjena, Bocachico criollo fresco, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  495.5574
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1042.306CoRD: Average daily cost per 1000 kilocalories is 1777.025
+In the city of Manizales for the year 2013 and month April , the following foods were omitted due to lack of nutritional information: 38 : Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Berenjena, Bocachico criollo fresco, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  488.5011
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1035.163CoRD: Average daily cost per 1000 kilocalories is 1778.479
+In the city of Manizales for the year 2013 and month May , the following foods were omitted due to lack of nutritional information: 38 : Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Berenjena, Bocachico criollo fresco, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  480.2744
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1031.725CoRD: Average daily cost per 1000 kilocalories is 1781.068
+In the city of Manizales for the year 2013 and month June , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  469.6973
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1028.052CoRD: Average daily cost per 1000 kilocalories is 1782.395
+In the city of Manizales for the year 2013 and month July , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  455.5945
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1030.123CoRD: Average daily cost per 1000 kilocalories is 1788.108
+In the city of Manizales for the year 2013 and month August , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  435.8506
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1034.93CoRD: Average daily cost per 1000 kilocalories is 1785.627
+In the city of Manizales for the year 2013 and month September , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  422.6385
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1032.644CoRD: Average daily cost per 1000 kilocalories is 1766.18
+In the city of Manizales for the year 2013 and month October , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  418.1355
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1035.856CoRD: Average daily cost per 1000 kilocalories is 1747.704
+In the city of Manizales for the year 2013 and month November , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  417.5912
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1041.58CoRD: Average daily cost per 1000 kilocalories is 1739.76
+In the city of Manizales for the year 2013 and month December , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2013 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  417.1459
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1046.381CoRD: Average daily cost per 1000 kilocalories is 1746.327
+In the city of Manizales for the year 2014 and month January , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  413.5088
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1052.988CoRD: Average daily cost per 1000 kilocalories is 1900.307
+In the city of Manizales for the year 2014 and month February , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  412.6923
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1053.116CoRD: Average daily cost per 1000 kilocalories is 1909.203
+In the city of Manizales for the year 2014 and month March , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  412.0095
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1052.876CoRD: Average daily cost per 1000 kilocalories is 1919.29
+In the city of Manizales for the year 2014 and month April , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  411.0759
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1051.455CoRD: Average daily cost per 1000 kilocalories is 1922.141
+In the city of Manizales for the year 2014 and month May , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  410.0202
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1049.348CoRD: Average daily cost per 1000 kilocalories is 1917.821
+In the city of Manizales for the year 2014 and month June , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  408.663
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1048.244CoRD: Average daily cost per 1000 kilocalories is 1905.365
+In the city of Manizales for the year 2014 and month July , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  406.8533
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1047.372CoRD: Average daily cost per 1000 kilocalories is 1895.275
+In the city of Manizales for the year 2014 and month August , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  404.9135
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1046.467CoRD: Average daily cost per 1000 kilocalories is 1879.296
+In the city of Manizales for the year 2014 and month September , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  403.1915
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1044.881CoRD: Average daily cost per 1000 kilocalories is 1855.46
+In the city of Manizales for the year 2014 and month October , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  403.4884
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1050.784CoRD: Average daily cost per 1000 kilocalories is 1842.377
+In the city of Manizales for the year 2014 and month November , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  404.0822
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1056.108CoRD: Average daily cost per 1000 kilocalories is 1837.021
+In the city of Manizales for the year 2014 and month December , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2014 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  405.8636
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1054.126CoRD: Average daily cost per 1000 kilocalories is 1840.988
+In the city of Manizales for the year 2015 and month January , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  426.6219
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1080.067CoRD: Average daily cost per 1000 kilocalories is 1623.223
+In the city of Manizales for the year 2015 and month February , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  428.2661
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1082.972CoRD: Average daily cost per 1000 kilocalories is 1624.701
+In the city of Manizales for the year 2015 and month March , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  430.447
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1086.469CoRD: Average daily cost per 1000 kilocalories is 1625.881
+In the city of Manizales for the year 2015 and month April , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  433.0795
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1090.486CoRD: Average daily cost per 1000 kilocalories is 1615.315
+In the city of Manizales for the year 2015 and month May , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  435.1455
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1093.53CoRD: Average daily cost per 1000 kilocalories is 1616.366
+In the city of Manizales for the year 2015 and month June , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo blanco bogotano, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  438.4379
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1097.847CoRD: Average daily cost per 1000 kilocalories is 1624.402
+In the city of Manizales for the year 2015 and month July , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Galletas saladas 3 tacos, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  440.8484
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1103.226CoRD: Average daily cost per 1000 kilocalories is 1630.962
+In the city of Manizales for the year 2015 and month August , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  442.1449
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1109.866CoRD: Average daily cost per 1000 kilocalories is 1646.986
+In the city of Manizales for the year 2015 and month September , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  445.3514
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1120.578CoRD: Average daily cost per 1000 kilocalories is 1664.567
+In the city of Manizales for the year 2015 and month October , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  449.706
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1135.267CoRD: Average daily cost per 1000 kilocalories is 1681.441
+In the city of Manizales for the year 2015 and month November , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  450.1019
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1147.888CoRD: Average daily cost per 1000 kilocalories is 1698.17
+In the city of Manizales for the year 2015 and month December , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, cogote, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2015 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  449.805
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1148.924CoRD: Average daily cost per 1000 kilocalories is 1763.59
+In the city of Manizales for the year 2016 and month January , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  451.141
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1234.844CoRD: Average daily cost per 1000 kilocalories is 1873.74
+In the city of Manizales for the year 2016 and month February , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  451.2625
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1241.792CoRD: Average daily cost per 1000 kilocalories is 1872.842
+In the city of Manizales for the year 2016 and month March , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  451.4082
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1246.977CoRD: Average daily cost per 1000 kilocalories is 1870.247
+In the city of Manizales for the year 2016 and month April , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  451.2565
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1250.668CoRD: Average daily cost per 1000 kilocalories is 1866.537
+In the city of Manizales for the year 2016 and month May , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  451.809
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1250.88CoRD: Average daily cost per 1000 kilocalories is 1875.359
+In the city of Manizales for the year 2016 and month June , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  453.2405
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1250.382CoRD: Average daily cost per 1000 kilocalories is 1871.428
+In the city of Manizales for the year 2016 and month July , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  454.3574
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1253.487CoRD: Average daily cost per 1000 kilocalories is 1846.804
+In the city of Manizales for the year 2016 and month August , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  453.7834
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1254.671CoRD: Average daily cost per 1000 kilocalories is 1819.807
+In the city of Manizales for the year 2016 and month September , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  453.2935
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1252.384CoRD: Average daily cost per 1000 kilocalories is 1819.79
+In the city of Manizales for the year 2016 and month October , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  452.9719
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1253.03CoRD: Average daily cost per 1000 kilocalories is 1804.059
+In the city of Manizales for the year 2016 and month November , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  453.6647
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1256.923CoRD: Average daily cost per 1000 kilocalories is 1794.671
+In the city of Manizales for the year 2016 and month December , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2016 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  448.6174
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1260.163CoRD: Average daily cost per 1000 kilocalories is 1802.943
+In the city of Manizales for the year 2017 and month January , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  480.0641
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1298.71CoRD: Average daily cost per 1000 kilocalories is 1904.54
+In the city of Manizales for the year 2017 and month February , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  483.1388
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1299.534CoRD: Average daily cost per 1000 kilocalories is 1900.789
+In the city of Manizales for the year 2017 and month March , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  483.5923
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1295.796CoRD: Average daily cost per 1000 kilocalories is 1898.052
+In the city of Manizales for the year 2017 and month April , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  483.0579
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1293.53CoRD: Average daily cost per 1000 kilocalories is 1892.855
+In the city of Manizales for the year 2017 and month May , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  482.3898
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1289.587CoRD: Average daily cost per 1000 kilocalories is 1893.918
+In the city of Manizales for the year 2017 and month June , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  484.7544
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1292.927CoRD: Average daily cost per 1000 kilocalories is 1900.447
+In the city of Manizales for the year 2017 and month July , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  484.5919
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1293.462CoRD: Average daily cost per 1000 kilocalories is 1889.4
+In the city of Manizales for the year 2017 and month August , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  486.5019
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1296.474CoRD: Average daily cost per 1000 kilocalories is 1885.431
+In the city of Manizales for the year 2017 and month September , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  489.6639
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1299.557CoRD: Average daily cost per 1000 kilocalories is 1893.164
+In the city of Manizales for the year 2017 and month October , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.538
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1303.883CoRD: Average daily cost per 1000 kilocalories is 1923.961
+In the city of Manizales for the year 2017 and month November , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.544
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1312.49CoRD: Average daily cost per 1000 kilocalories is 1942.64
+In the city of Manizales for the year 2017 and month December , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2017 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  504.7316
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1316.526CoRD: Average daily cost per 1000 kilocalories is 1949.902
+In the city of Manizales for the year 2018 and month January , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.643
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1276.798CoRD: Average daily cost per 1000 kilocalories is 1894.256
+In the city of Manizales for the year 2018 and month February , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.9219
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1274.625CoRD: Average daily cost per 1000 kilocalories is 1889.097
+In the city of Manizales for the year 2018 and month March , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  504.5832
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1274.422CoRD: Average daily cost per 1000 kilocalories is 1883.095
+In the city of Manizales for the year 2018 and month April , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.3584
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1275.388CoRD: Average daily cost per 1000 kilocalories is 1869.513
+In the city of Manizales for the year 2018 and month May , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.8079
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1274.938CoRD: Average daily cost per 1000 kilocalories is 1859.506
+In the city of Manizales for the year 2018 and month June , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.2471
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1273.606CoRD: Average daily cost per 1000 kilocalories is 1855.18
+In the city of Manizales for the year 2018 and month July , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  500.2781
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1273.502CoRD: Average daily cost per 1000 kilocalories is 1841.728
+In the city of Manizales for the year 2018 and month August , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  502.9502
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1277.346CoRD: Average daily cost per 1000 kilocalories is 1839.618
+In the city of Manizales for the year 2018 and month September , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  504.5832
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1279CoRD: Average daily cost per 1000 kilocalories is 1841.491
+In the city of Manizales for the year 2018 and month October , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Róbalo, filete congelado, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  502.5544
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1282.924CoRD: Average daily cost per 1000 kilocalories is 1824.167
+In the city of Manizales for the year 2018 and month November , the following foods were omitted due to lack of nutritional information: 37 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  501.7626
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1288.559CoRD: Average daily cost per 1000 kilocalories is 1831.369
+In the city of Manizales for the year 2018 and month December , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2018 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  501.7626
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1303.418CoRD: Average daily cost per 1000 kilocalories is 1843.169
+In the city of Manizales for the year 2019 and month January , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  501.7626
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1326.378CoRD: Average daily cost per 1000 kilocalories is 1872.891
+In the city of Manizales for the year 2019 and month February , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  501.7626
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1316.845CoRD: Average daily cost per 1000 kilocalories is 1891.003
+In the city of Manizales for the year 2019 and month March , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol radical, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  499.6843
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1297.577CoRD: Average daily cost per 1000 kilocalories is 1925.198
+In the city of Manizales for the year 2019 and month April , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  492.8556
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1333.198CoRD: Average daily cost per 1000 kilocalories is 1990.243
+In the city of Manizales for the year 2019 and month May , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  490.4804
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1304.103CoRD: Average daily cost per 1000 kilocalories is 1912.087
+In the city of Manizales for the year 2019 and month June , the following foods were omitted due to lack of nutritional information: 34 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  486.9176
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1270.462CoRD: Average daily cost per 1000 kilocalories is 2101.728
+In the city of Manizales for the year 2019 and month July , the following foods were omitted due to lack of nutritional information: 34 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  538.5783
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1375.606CoRD: Average daily cost per 1000 kilocalories is 2201.986
+In the city of Manizales for the year 2019 and month August , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  526.1085
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1320.023CoRD: Average daily cost per 1000 kilocalories is 2179.343
+In the city of Manizales for the year 2019 and month September , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Bagre rayado en postas congelado, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  507.7006
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1325.188CoRD: Average daily cost per 1000 kilocalories is 2166.99
+In the city of Manizales for the year 2019 and month October , the following foods were omitted due to lack of nutritional information: 34 : Arracacha blanca, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  522.5457
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1299.84CoRD: Average daily cost per 1000 kilocalories is 2087.153
+In the city of Manizales for the year 2019 and month November , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  522.8426
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1347.392CoRD: Average daily cost per 1000 kilocalories is 2042.443
+In the city of Manizales for the year 2019 and month December , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2019 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  549.2668
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1390.7CoRD: Average daily cost per 1000 kilocalories is 2012.79
+In the city of Manizales for the year 2020 and month January , the following foods were omitted due to lack of nutritional information: 33 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  571.2375
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1399.912CoRD: Average daily cost per 1000 kilocalories is 2038.788
+In the city of Manizales for the year 2020 and month February , the following foods were omitted due to lack of nutritional information: 34 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  543.3288
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1356.88CoRD: Average daily cost per 1000 kilocalories is 2004.792
+In the city of Manizales for the year 2020 and month March , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  552.2358
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1380.519CoRD: Average daily cost per 1000 kilocalories is 2086.023
+In the city of Manizales for the year 2020 and month April , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  570.0499
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1412.467CoRD: Average daily cost per 1000 kilocalories is 2191.549
+In the city of Manizales for the year 2020 and month May , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  831.3227
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1697.618CoRD: Average daily cost per 1000 kilocalories is 2253.682
+In the city of Manizales for the year 2020 and month June , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  791.2411
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1642.127CoRD: Average daily cost per 1000 kilocalories is 2266.334
+In the city of Manizales for the year 2020 and month July , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  740.471
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1482.86CoRD: Average daily cost per 1000 kilocalories is 2207.372
+In the city of Manizales for the year 2020 and month August , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  733.0485
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1452.013CoRD: Average daily cost per 1000 kilocalories is 2127.648
+In the city of Manizales for the year 2020 and month September , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  733.0485
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1525.876CoRD: Average daily cost per 1000 kilocalories is 2108.598
+In the city of Manizales for the year 2020 and month October , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  714.0468
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1482.416CoRD: Average daily cost per 1000 kilocalories is 2087.62
+In the city of Manizales for the year 2020 and month November , the following foods were omitted due to lack of nutritional information: 33 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  696.2328
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1556.555CoRD: Average daily cost per 1000 kilocalories is 2110.438
+In the city of Manizales for the year 2020 and month December , the following foods were omitted due to lack of nutritional information: 33 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2020 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  700.3894
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1580.504CoRD: Average daily cost per 1000 kilocalories is 2125.299
+In the city of Manizales for the year 2021 and month January , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Mango manzano, Mango reina, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  726.8136
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1542.414CoRD: Average daily cost per 1000 kilocalories is 2123.905
+In the city of Manizales for the year 2021 and month February , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  736.3144
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1557.236CoRD: Average daily cost per 1000 kilocalories is 2137.842
+In the city of Manizales for the year 2021 and month March , the following foods were omitted due to lack of nutritional information: 33 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  732.1578
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1570.668CoRD: Average daily cost per 1000 kilocalories is 2283.736
+In the city of Manizales for the year 2021 and month April , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Papa San Félix, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  715.5313
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1624.691CoRD: Average daily cost per 1000 kilocalories is 2361.95
+In the city of Manizales for the year 2021 and month May , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  715.5313
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1658.714CoRD: Average daily cost per 1000 kilocalories is 2674.221
+In the city of Manizales for the year 2021 and month June , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  766.0045
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1548.141CoRD: Average daily cost per 1000 kilocalories is 2540.386
+In the city of Manizales for the year 2021 and month July , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  766.0045
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1543.445CoRD: Average daily cost per 1000 kilocalories is 2546.689
+In the city of Manizales for the year 2021 and month August , the following foods were omitted due to lack of nutritional information: 32 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  766.0045
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1727.916CoRD: Average daily cost per 1000 kilocalories is 2610.7
+In the city of Manizales for the year 2021 and month September , the following foods were omitted due to lack of nutritional information: 33 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo, Tomate riñón . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  779.6619
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1759.509CoRD: Average daily cost per 1000 kilocalories is 2634.128
+In the city of Manizales for the year 2021 and month October , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  824.4537
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1867.786CoRD: Average daily cost per 1000 kilocalories is 2730.032
+In the city of Manizales for the year 2021 and month November , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  821.0041
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3007.925CoRD: Average daily cost per 1000 kilocalories is 2294.409
+In the city of Manizales for the year 2021 and month December , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2021 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  844.4613
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3051.61CoRD: Average daily cost per 1000 kilocalories is 2400.223
+In the city of Manizales for the year 2022 and month January , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  891.0309
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2046.576CoRD: Average daily cost per 1000 kilocalories is 3308.143
+In the city of Manizales for the year 2022 and month February , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  910.2984
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2091.111CoRD: Average daily cost per 1000 kilocalories is 3429.506
+In the city of Manizales for the year 2022 and month March , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  866.9508
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2054.074CoRD: Average daily cost per 1000 kilocalories is 3466.097
+In the city of Manizales for the year 2022 and month April , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  868.4353
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2102.546CoRD: Average daily cost per 1000 kilocalories is 3511.466
+In the city of Manizales for the year 2022 and month May , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  868.1384
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1932.599CoRD: Average daily cost per 1000 kilocalories is 3265.758
+In the city of Manizales for the year 2022 and month June , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  896.0471
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1866.742CoRD: Average daily cost per 1000 kilocalories is 3216.371
+In the city of Manizales for the year 2022 and month July , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  938.207
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2504.121CoRD: Average daily cost per 1000 kilocalories is 3521.142
+In the city of Manizales for the year 2022 and month August , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1089.627
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2238.091CoRD: Average daily cost per 1000 kilocalories is 3507.416
+In the city of Manizales for the year 2022 and month September , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1122.583
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2339.638CoRD: Average daily cost per 1000 kilocalories is 3534.467
+In the city of Manizales for the year 2022 and month October , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1112.785
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2392.064CoRD: Average daily cost per 1000 kilocalories is 3620.607
+In the city of Manizales for the year 2022 and month November , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1128.224
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2583.769CoRD: Average daily cost per 1000 kilocalories is 4043.834
+In the city of Manizales for the year 2022 and month December , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2022 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1147.225
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2646.241CoRD: Average daily cost per 1000 kilocalories is 3960.35
+In the city of Manizales for the year 2023 and month January , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  1079.235
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2625.09CoRD: Average daily cost per 1000 kilocalories is 3992.305
+In the city of Manizales for the year 2023 and month February , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  1119.317
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2594.23CoRD: Average daily cost per 1000 kilocalories is 4016.919
+In the city of Manizales for the year 2023 and month March , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  1125.552
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2487.353CoRD: Average daily cost per 1000 kilocalories is 3944.312
+In the city of Manizales for the year 2023 and month April , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  1147.225
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2632.816CoRD: Average daily cost per 1000 kilocalories is 3781.875
+In the city of Manizales for the year 2023 and month May , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  1094.08
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2538.128CoRD: Average daily cost per 1000 kilocalories is 3812.692
+In the city of Manizales for the year 2023 and month June , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1080.72
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2390.757CoRD: Average daily cost per 1000 kilocalories is 3715.94
+In the city of Manizales for the year 2023 and month July , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1080.72
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2310.041CoRD: Average daily cost per 1000 kilocalories is 3679.477
+In the city of Manizales for the year 2023 and month August , the following foods were omitted due to lack of nutritional information: 29 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1090.22
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2340.985CoRD: Average daily cost per 1000 kilocalories is 3747.398
+In the city of Manizales for the year 2023 and month September , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1027.277
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2282.214CoRD: Average daily cost per 1000 kilocalories is 3717.816
+In the city of Manizales for the year 2023 and month October , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  968.194
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2371.5CoRD: Average daily cost per 1000 kilocalories is 3949.195
+In the city of Manizales for the year 2023 and month November , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  947.411
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2522.02CoRD: Average daily cost per 1000 kilocalories is 3861.648
+In the city of Manizales for the year 2023 and month December , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arveja verde en vaina, Berenjena, Carne de cerdo, tocineta plancha, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol cargamanto rojo, Fríjol nima calima, Fríjol verde en vaina, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco extra, Maíz amarillo cáscara, Manteca, Naranja Valencia, Papa R-12 negra, Perejil, Plátano dominico hartón maduro, Plátano dominico hartón verde, Rabadillas de pollo, Rábano rojo, Remolacha, Repollo verde, Tangelo . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Manizales _ 2023 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  942.3637
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2504.785CoRD: Average daily cost per 1000 kilocalories is 3833.322

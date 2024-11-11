@@ -1,0 +1,1057 @@
+
+In the city of Pasto for the year 2013 and month January , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Limón común valluno, Maíz amarillo cáscara, Mango Kent, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde, Yuca chirosa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  430.3332
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1186.697CoRD: Average daily cost per 1000 kilocalories is 1653.813
+In the city of Pasto for the year 2013 and month February , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Limón común valluno, Maíz amarillo cáscara, Mango Kent, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde, Yuca chirosa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  428.752
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1186.92CoRD: Average daily cost per 1000 kilocalories is 1658.268
+In the city of Pasto for the year 2013 and month March , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Limón común valluno, Maíz amarillo cáscara, Mango Kent, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde, Yuca chirosa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  427.3889
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1188.177CoRD: Average daily cost per 1000 kilocalories is 1664.317
+In the city of Pasto for the year 2013 and month April , the following foods were omitted due to lack of nutritional information: 31 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Limón común valluno, Maíz amarillo cáscara, Mango Kent, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde, Yuca chirosa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  425.4921
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1190.665CoRD: Average daily cost per 1000 kilocalories is 1672.196
+In the city of Pasto for the year 2013 and month May , the following foods were omitted due to lack of nutritional information: 30 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Limón común valluno, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde, Yuca chirosa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  423.5663
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1190.754CoRD: Average daily cost per 1000 kilocalories is 1678.884
+In the city of Pasto for the year 2013 and month June , the following foods were omitted due to lack of nutritional information: 29 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Limón común valluno, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde, Yuca chirosa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  420.8783
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1189.633CoRD: Average daily cost per 1000 kilocalories is 1679.789
+In the city of Pasto for the year 2013 and month July , the following foods were omitted due to lack of nutritional information: 27 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  418.9273
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1189.015CoRD: Average daily cost per 1000 kilocalories is 1672.175
+In the city of Pasto for the year 2013 and month August , the following foods were omitted due to lack of nutritional information: 27 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco A, Huevo blanco AA, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca, Uva verde . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  417.1459
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1187.743CoRD: Average daily cost per 1000 kilocalories is 1655.819
+In the city of Pasto for the year 2013 and month September , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  415.4387
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1184.719CoRD: Average daily cost per 1000 kilocalories is 1641.981
+In the city of Pasto for the year 2013 and month October , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  412.6923
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1186.032CoRD: Average daily cost per 1000 kilocalories is 1819.124
+In the city of Pasto for the year 2013 and month November , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  410.0202
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1189.558CoRD: Average daily cost per 1000 kilocalories is 1799.459
+In the city of Pasto for the year 2013 and month December , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2013 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  412.6923
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1184.546CoRD: Average daily cost per 1000 kilocalories is 1785.384
+In the city of Pasto for the year 2014 and month January , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  398.07
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1257.413CoRD: Average daily cost per 1000 kilocalories is 1906.714
+In the city of Pasto for the year 2014 and month February , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  397.9013
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1261.233CoRD: Average daily cost per 1000 kilocalories is 1906.855
+In the city of Pasto for the year 2014 and month March , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  400.4897
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1264.34CoRD: Average daily cost per 1000 kilocalories is 1908.22
+In the city of Pasto for the year 2014 and month April , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  402.0039
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1267.165CoRD: Average daily cost per 1000 kilocalories is 1885.901
+In the city of Pasto for the year 2014 and month May , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  402.4121
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1268.816CoRD: Average daily cost per 1000 kilocalories is 1883.156
+In the city of Pasto for the year 2014 and month June , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  402.7674
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1272.321CoRD: Average daily cost per 1000 kilocalories is 1903.33
+In the city of Pasto for the year 2014 and month July , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  403.241
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1278.664CoRD: Average daily cost per 1000 kilocalories is 1898.531
+In the city of Pasto for the year 2014 and month August , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  404.676
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1282.564CoRD: Average daily cost per 1000 kilocalories is 1903.416
+In the city of Pasto for the year 2014 and month September , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  405.1214
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1284.719CoRD: Average daily cost per 1000 kilocalories is 1903.901
+In the city of Pasto for the year 2014 and month October , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  405.5667
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1287.4CoRD: Average daily cost per 1000 kilocalories is 1873.056
+In the city of Pasto for the year 2014 and month November , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  406.4574
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1290.737CoRD: Average daily cost per 1000 kilocalories is 1859.58
+In the city of Pasto for the year 2014 and month December , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2014 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  409.1295
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1302.924CoRD: Average daily cost per 1000 kilocalories is 1870.958
+In the city of Pasto for the year 2015 and month January , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  439.3392
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1449.788CoRD: Average daily cost per 1000 kilocalories is 2102.795
+In the city of Pasto for the year 2015 and month February , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  441.2488
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1461.179CoRD: Average daily cost per 1000 kilocalories is 2118.43
+In the city of Pasto for the year 2015 and month March , the following foods were omitted due to lack of nutritional information: 25 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  443.4216
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1471.944CoRD: Average daily cost per 1000 kilocalories is 2124.636
+In the city of Pasto for the year 2015 and month April , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  445.3514
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1480.538CoRD: Average daily cost per 1000 kilocalories is 2126.684
+In the city of Pasto for the year 2015 and month May , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  446.9844
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1490.005CoRD: Average daily cost per 1000 kilocalories is 2132.454
+In the city of Pasto for the year 2015 and month June , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  448.6174
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1500.478CoRD: Average daily cost per 1000 kilocalories is 2142.604
+In the city of Pasto for the year 2015 and month July , the following foods were omitted due to lack of nutritional information: 24 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  448.172
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1510.832CoRD: Average daily cost per 1000 kilocalories is 2159.233
+In the city of Pasto for the year 2015 and month August , the following foods were omitted due to lack of nutritional information: 23 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  449.4487
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1521.89CoRD: Average daily cost per 1000 kilocalories is 2184.451
+In the city of Pasto for the year 2015 and month September , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  451.4379
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1533.639CoRD: Average daily cost per 1000 kilocalories is 2206.069
+In the city of Pasto for the year 2015 and month October , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  456.7326
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1539.773CoRD: Average daily cost per 1000 kilocalories is 2214.556
+In the city of Pasto for the year 2015 and month November , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  464.2047
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1543.674CoRD: Average daily cost per 1000 kilocalories is 2222.12
+In the city of Pasto for the year 2015 and month December , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2015 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  475.0415
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1554.761CoRD: Average daily cost per 1000 kilocalories is 2251.905
+In the city of Pasto for the year 2016 and month January , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  482.9589
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1652.243CoRD: Average daily cost per 1000 kilocalories is 2371.9
+In the city of Pasto for the year 2016 and month February , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  483.6787
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1657.443CoRD: Average daily cost per 1000 kilocalories is 2376.884
+In the city of Pasto for the year 2016 and month March , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  484.5424
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1653.585CoRD: Average daily cost per 1000 kilocalories is 2375.97
+In the city of Pasto for the year 2016 and month April , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  485.598
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1651.063CoRD: Average daily cost per 1000 kilocalories is 2367.01
+In the city of Pasto for the year 2016 and month May , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  486.9176
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1652.31CoRD: Average daily cost per 1000 kilocalories is 2367.002
+In the city of Pasto for the year 2016 and month June , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  488.6142
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1652.48CoRD: Average daily cost per 1000 kilocalories is 2353.937
+In the city of Pasto for the year 2016 and month July , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  490.8763
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1650.256CoRD: Average daily cost per 1000 kilocalories is 2336.735
+In the city of Pasto for the year 2016 and month August , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.0432
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1641.818CoRD: Average daily cost per 1000 kilocalories is 2329.653
+In the city of Pasto for the year 2016 and month September , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1636.597CoRD: Average daily cost per 1000 kilocalories is 2320.899
+In the city of Pasto for the year 2016 and month October , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1638.178CoRD: Average daily cost per 1000 kilocalories is 2306.813
+In the city of Pasto for the year 2016 and month November , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1642.617CoRD: Average daily cost per 1000 kilocalories is 2309.921
+In the city of Pasto for the year 2016 and month December , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2016 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1665.564CoRD: Average daily cost per 1000 kilocalories is 2342.746
+In the city of Pasto for the year 2017 and month January , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1768.647CoRD: Average daily cost per 1000 kilocalories is 2536.746
+In the city of Pasto for the year 2017 and month February , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1770.643CoRD: Average daily cost per 1000 kilocalories is 2546.682
+In the city of Pasto for the year 2017 and month March , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1769.994CoRD: Average daily cost per 1000 kilocalories is 2555.762
+In the city of Pasto for the year 2017 and month April , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1771.277CoRD: Average daily cost per 1000 kilocalories is 2567.85
+In the city of Pasto for the year 2017 and month May , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1774.8CoRD: Average daily cost per 1000 kilocalories is 2580.517
+In the city of Pasto for the year 2017 and month June , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1779.018CoRD: Average daily cost per 1000 kilocalories is 2595.557
+In the city of Pasto for the year 2017 and month July , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1778.764CoRD: Average daily cost per 1000 kilocalories is 2605.149
+In the city of Pasto for the year 2017 and month August , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1777.045CoRD: Average daily cost per 1000 kilocalories is 2601.318
+In the city of Pasto for the year 2017 and month September , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1773.235CoRD: Average daily cost per 1000 kilocalories is 2611.804
+In the city of Pasto for the year 2017 and month October , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1770.082CoRD: Average daily cost per 1000 kilocalories is 2580.579
+In the city of Pasto for the year 2017 and month November , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1766.507CoRD: Average daily cost per 1000 kilocalories is 2539.999
+In the city of Pasto for the year 2017 and month December , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2017 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  498.7936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1769.336CoRD: Average daily cost per 1000 kilocalories is 2518.349
+In the city of Pasto for the year 2018 and month January , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  502.3812
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1663.604CoRD: Average daily cost per 1000 kilocalories is 2508.668
+In the city of Pasto for the year 2018 and month February , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  502.7073
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1652.889CoRD: Average daily cost per 1000 kilocalories is 2507.675
+In the city of Pasto for the year 2018 and month March , the following foods were omitted due to lack of nutritional information: 22 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Fríjol bolón, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.0987
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1638.682CoRD: Average daily cost per 1000 kilocalories is 2502.056
+In the city of Pasto for the year 2018 and month April , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.2141
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1620.273CoRD: Average daily cost per 1000 kilocalories is 2498.471
+In the city of Pasto for the year 2018 and month May , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.6554
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1614.525CoRD: Average daily cost per 1000 kilocalories is 2508.823
+In the city of Pasto for the year 2018 and month June , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  504.3499
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1614.951CoRD: Average daily cost per 1000 kilocalories is 2517.816
+In the city of Pasto for the year 2018 and month July , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  504.1378
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1617.477CoRD: Average daily cost per 1000 kilocalories is 2529.987
+In the city of Pasto for the year 2018 and month August , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  504.7316
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1620.413CoRD: Average daily cost per 1000 kilocalories is 2548.34
+In the city of Pasto for the year 2018 and month September , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.2512
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1620.57CoRD: Average daily cost per 1000 kilocalories is 2552.457
+In the city of Pasto for the year 2018 and month October , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.7213
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1620.617CoRD: Average daily cost per 1000 kilocalories is 2545.656
+In the city of Pasto for the year 2018 and month November , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  507.2553
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1621.22CoRD: Average daily cost per 1000 kilocalories is 2553.106
+In the city of Pasto for the year 2018 and month December , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2018 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  510.6697
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1635.584CoRD: Average daily cost per 1000 kilocalories is 2602.727
+In the city of Pasto for the year 2019 and month January , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  513.9356
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1681.122CoRD: Average daily cost per 1000 kilocalories is 2634.681
+In the city of Pasto for the year 2019 and month February , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  516.6077
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1678.491CoRD: Average daily cost per 1000 kilocalories is 2637.865
+In the city of Pasto for the year 2019 and month March , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  517.4984
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1674.371CoRD: Average daily cost per 1000 kilocalories is 2651.951
+In the city of Pasto for the year 2019 and month April , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  542.4381
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1672.127CoRD: Average daily cost per 1000 kilocalories is 2684.245
+In the city of Pasto for the year 2019 and month May , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  554.9079
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1687.837CoRD: Average daily cost per 1000 kilocalories is 2678.19
+In the city of Pasto for the year 2019 and month June , the following foods were omitted due to lack of nutritional information: 20 : Arracacha blanca, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  550.236
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1698.749CoRD: Average daily cost per 1000 kilocalories is 2719.998
+In the city of Pasto for the year 2019 and month July , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  558.1738
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1707.687CoRD: Average daily cost per 1000 kilocalories is 2713.39
+In the city of Pasto for the year 2019 and month August , the following foods were omitted due to lack of nutritional information: 20 : Arracacha blanca, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  558.1738
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1722.672CoRD: Average daily cost per 1000 kilocalories is 2749.828
+In the city of Pasto for the year 2019 and month September , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  546.2978
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1731.596CoRD: Average daily cost per 1000 kilocalories is 2837.893
+In the city of Pasto for the year 2019 and month October , the following foods were omitted due to lack of nutritional information: 20 : Arracacha blanca, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  534.4217
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1718.114CoRD: Average daily cost per 1000 kilocalories is 2753.267
+In the city of Pasto for the year 2019 and month November , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  534.4217
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1714.905CoRD: Average daily cost per 1000 kilocalories is 2708.826
+In the city of Pasto for the year 2019 and month December , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2019 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  534.4217
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1726.166CoRD: Average daily cost per 1000 kilocalories is 2645.283
+In the city of Pasto for the year 2020 and month January , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  534.4217
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1720.283CoRD: Average daily cost per 1000 kilocalories is 2650.496
+In the city of Pasto for the year 2020 and month February , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  515.2703
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1701.722CoRD: Average daily cost per 1000 kilocalories is 2651.029
+In the city of Pasto for the year 2020 and month March , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  534.4217
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1741.166CoRD: Average daily cost per 1000 kilocalories is 2720.552
+In the city of Pasto for the year 2020 and month April , the following foods were omitted due to lack of nutritional information: 20 : Arracacha blanca, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  558.1738
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1815.452CoRD: Average daily cost per 1000 kilocalories is 2762.622
+In the city of Pasto for the year 2020 and month May , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  593.8019
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1888.62CoRD: Average daily cost per 1000 kilocalories is 2729.34
+In the city of Pasto for the year 2020 and month June , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  584.8949
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1988.884CoRD: Average daily cost per 1000 kilocalories is 2699.399
+In the city of Pasto for the year 2020 and month July , the following foods were omitted due to lack of nutritional information: 21 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fécula de maíz, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  586.3794
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1872.934CoRD: Average daily cost per 1000 kilocalories is 2780.795
+In the city of Pasto for the year 2020 and month August , the following foods were omitted due to lack of nutritional information: 20 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  586.6763
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1894.788CoRD: Average daily cost per 1000 kilocalories is 2898.54
+In the city of Pasto for the year 2020 and month September , the following foods were omitted due to lack of nutritional information: 19 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Maíz amarillo cáscara, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  591.1298
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1868.342CoRD: Average daily cost per 1000 kilocalories is 2868.777
+In the city of Pasto for the year 2020 and month October , the following foods were omitted due to lack of nutritional information: 19 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Maíz amarillo cáscara, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  583.7073
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1610.144CoRD: Average daily cost per 1000 kilocalories is 2588.878
+In the city of Pasto for the year 2020 and month November , the following foods were omitted due to lack of nutritional information: 19 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Maíz amarillo cáscara, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  587.2701
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1898.489CoRD: Average daily cost per 1000 kilocalories is 2831.467
+In the city of Pasto for the year 2020 and month December , the following foods were omitted due to lack of nutritional information: 19 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Maíz amarillo cáscara, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2020 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  584.8949
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1853.689CoRD: Average daily cost per 1000 kilocalories is 2838.052
+In the city of Pasto for the year 2021 and month January , the following foods were omitted due to lack of nutritional information: 19 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Maíz amarillo cáscara, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  590.8329
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1868.307CoRD: Average daily cost per 1000 kilocalories is 2864.94
+In the city of Pasto for the year 2021 and month February , the following foods were omitted due to lack of nutritional information: 17 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  579.8476
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1854.969CoRD: Average daily cost per 1000 kilocalories is 2891.762
+In the city of Pasto for the year 2021 and month March , the following foods were omitted due to lack of nutritional information: 18 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  583.4104
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1952.722CoRD: Average daily cost per 1000 kilocalories is 3035.574
+In the city of Pasto for the year 2021 and month April , the following foods were omitted due to lack of nutritional information: 18 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  590.2391
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1902.172CoRD: Average daily cost per 1000 kilocalories is 3031.09
+In the city of Pasto for the year 2021 and month May , the following foods were omitted due to lack of nutritional information: 17 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  598.2554
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1966.867CoRD: Average daily cost per 1000 kilocalories is 3086.942
+In the city of Pasto for the year 2021 and month June , the following foods were omitted due to lack of nutritional information: 18 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  595.2864
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2022.875CoRD: Average daily cost per 1000 kilocalories is 2934.452
+In the city of Pasto for the year 2021 and month July , the following foods were omitted due to lack of nutritional information: 19 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  623.492
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2088.686CoRD: Average daily cost per 1000 kilocalories is 3067.79
+In the city of Pasto for the year 2021 and month August , the following foods were omitted due to lack of nutritional information: 18 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Pollo entero fresco sin vísceras, Rábano rojo, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  633.8836
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2167.471CoRD: Average daily cost per 1000 kilocalories is 3336.702
+In the city of Pasto for the year 2021 and month September , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Pollo entero fresco sin vísceras, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  666.2458
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2229.248CoRD: Average daily cost per 1000 kilocalories is 3387.769
+In the city of Pasto for the year 2021 and month October , the following foods were omitted due to lack of nutritional information: 14 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Papa ICA-Huila, Papa superior, Perejil, Pollo entero fresco sin vísceras, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  706.6243
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2249.595CoRD: Average daily cost per 1000 kilocalories is 3322.583
+In the city of Pasto for the year 2021 and month November , the following foods were omitted due to lack of nutritional information: 17 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  746.7059
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  5510.942CoRD: Average daily cost per 1000 kilocalories is 3128.125
+In the city of Pasto for the year 2021 and month December , the following foods were omitted due to lack of nutritional information: 17 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Repollo morado, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2021 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  871.7012
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  5529.122CoRD: Average daily cost per 1000 kilocalories is 3272.701
+In the city of Pasto for the year 2022 and month January , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  898.1254
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2366.166CoRD: Average daily cost per 1000 kilocalories is 3431.262
+In the city of Pasto for the year 2022 and month February , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  886.2494
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2365.628CoRD: Average daily cost per 1000 kilocalories is 3519.35
+In the city of Pasto for the year 2022 and month March , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  889.5153
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2382.84CoRD: Average daily cost per 1000 kilocalories is 3573.88
+In the city of Pasto for the year 2022 and month April , the following foods were omitted due to lack of nutritional information: 17 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Naranja Valencia, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  871.4043
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2447.203CoRD: Average daily cost per 1000 kilocalories is 3728.601
+In the city of Pasto for the year 2022 and month May , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  874.3733
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2609.485CoRD: Average daily cost per 1000 kilocalories is 3683.86
+In the city of Pasto for the year 2022 and month June , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  915.0488
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2783.963CoRD: Average daily cost per 1000 kilocalories is 3891.168
+In the city of Pasto for the year 2022 and month July , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  928.2062
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2805.984CoRD: Average daily cost per 1000 kilocalories is 4003.24
+In the city of Pasto for the year 2022 and month August , the following foods were omitted due to lack of nutritional information: 16 : Arracacha blanca, Arroz blanco importado, Azúcar refinada, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1005.557
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2807.948CoRD: Average daily cost per 1000 kilocalories is 3898.187
+In the city of Pasto for the year 2022 and month September , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1012.432
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3500.538CoRD: Average daily cost per 1000 kilocalories is 4849.857
+In the city of Pasto for the year 2022 and month October , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1020.726
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3528.979CoRD: Average daily cost per 1000 kilocalories is 4932.563
+In the city of Pasto for the year 2022 and month November , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1034.106
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3542.644CoRD: Average daily cost per 1000 kilocalories is 4983.198
+In the city of Pasto for the year 2022 and month December , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2022 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1042.122
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3623.813CoRD: Average daily cost per 1000 kilocalories is 5172.656
+In the city of Pasto for the year 2023 and month January , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  1050.436
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3696.399CoRD: Average daily cost per 1000 kilocalories is 5195.624
+In the city of Pasto for the year 2023 and month February , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  1093.486
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3876.791CoRD: Average daily cost per 1000 kilocalories is 5431.578
+In the city of Pasto for the year 2023 and month March , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  1097.94
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3990.755CoRD: Average daily cost per 1000 kilocalories is 5527.895
+In the city of Pasto for the year 2023 and month April , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  1088.142
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3999.913CoRD: Average daily cost per 1000 kilocalories is 5474.501
+In the city of Pasto for the year 2023 and month May , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  1083.689
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3986.028CoRD: Average daily cost per 1000 kilocalories is 5491.84
+In the city of Pasto for the year 2023 and month June , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1072.703
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3902.638CoRD: Average daily cost per 1000 kilocalories is 5401.174
+In the city of Pasto for the year 2023 and month July , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1076.266
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3967.772CoRD: Average daily cost per 1000 kilocalories is 5388.96
+In the city of Pasto for the year 2023 and month August , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1072.406
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3970.137CoRD: Average daily cost per 1000 kilocalories is 5571.25
+In the city of Pasto for the year 2023 and month September , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1067.359
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4000.106CoRD: Average daily cost per 1000 kilocalories is 5656.987
+In the city of Pasto for the year 2023 and month October , the following foods were omitted due to lack of nutritional information: 14 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1048.06
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4028.946CoRD: Average daily cost per 1000 kilocalories is 5617.015
+In the city of Pasto for the year 2023 and month November , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1021.339
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3976.042CoRD: Average daily cost per 1000 kilocalories is 5667.947
+In the city of Pasto for the year 2023 and month December , the following foods were omitted due to lack of nutritional information: 15 : Arracacha blanca, Arroz blanco importado, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Menudencias de pollo, Panela cuadrada morena, Papa ICA-Huila, Papa Morasurco, Papa superior, Perejil, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Trucha entera fresca . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pasto _ 2023 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  993.1337
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3892.966CoRD: Average daily cost per 1000 kilocalories is 5612.648

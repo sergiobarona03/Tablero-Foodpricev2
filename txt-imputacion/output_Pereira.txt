@@ -1,0 +1,1057 @@
+
+In the city of Pereira for the year 2013 and month January , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  554.9171
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1133.387CoRD: Average daily cost per 1000 kilocalories is 1440.391
+In the city of Pereira for the year 2013 and month February , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  556.65
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1131.759CoRD: Average daily cost per 1000 kilocalories is 1436.964
+In the city of Pereira for the year 2013 and month March , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  558.415
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1125.983CoRD: Average daily cost per 1000 kilocalories is 1439.918
+In the city of Pereira for the year 2013 and month April , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  562.6698
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1123.921CoRD: Average daily cost per 1000 kilocalories is 1444.686
+In the city of Pereira for the year 2013 and month May , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  567.5163
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1127.799CoRD: Average daily cost per 1000 kilocalories is 1449.727
+In the city of Pereira for the year 2013 and month June , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  563.2741
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1128.999CoRD: Average daily cost per 1000 kilocalories is 1447.959
+In the city of Pereira for the year 2013 and month July , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  555.2055
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1134.072CoRD: Average daily cost per 1000 kilocalories is 1447.532
+In the city of Pereira for the year 2013 and month August , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  547.6224
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1139.436CoRD: Average daily cost per 1000 kilocalories is 1438.789
+In the city of Pereira for the year 2013 and month September , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  548.0471
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1138.095CoRD: Average daily cost per 1000 kilocalories is 1413.611
+In the city of Pereira for the year 2013 and month October , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, cabeza de lomo, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  546.9721
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1155.07CoRD: Average daily cost per 1000 kilocalories is 1399.96
+In the city of Pereira for the year 2013 and month November , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  546.8672
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1164.3CoRD: Average daily cost per 1000 kilocalories is 1387.694
+In the city of Pereira for the year 2013 and month December , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Róbalo, filete congelado, Tangelo, Tomate riñón, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2013 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  169.3034
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1051.746CoRD: Average daily cost per 1000 kilocalories is 1372.184
+In the city of Pereira for the year 2014 and month January , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  592.4658
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1176.352CoRD: Average daily cost per 1000 kilocalories is 1531.144
+In the city of Pereira for the year 2014 and month February , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  589.2888
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1177.747CoRD: Average daily cost per 1000 kilocalories is 1539.526
+In the city of Pereira for the year 2014 and month March , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  585.8021
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1178.596CoRD: Average daily cost per 1000 kilocalories is 1549.768
+In the city of Pereira for the year 2014 and month April , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  583.2046
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1178.644CoRD: Average daily cost per 1000 kilocalories is 1555.786
+In the city of Pereira for the year 2014 and month May , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  580.4054
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1177.838CoRD: Average daily cost per 1000 kilocalories is 1555.426
+In the city of Pereira for the year 2014 and month June , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  577.1786
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1176.956CoRD: Average daily cost per 1000 kilocalories is 1555.297
+In the city of Pereira for the year 2014 and month July , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  572.1707
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1178.548CoRD: Average daily cost per 1000 kilocalories is 1560.013
+In the city of Pereira for the year 2014 and month August , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  566.1364
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1179.712CoRD: Average daily cost per 1000 kilocalories is 1565.708
+In the city of Pereira for the year 2014 and month September , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  561.7247
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1182.853CoRD: Average daily cost per 1000 kilocalories is 1556.537
+In the city of Pereira for the year 2014 and month October , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  554.3718
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1188.715CoRD: Average daily cost per 1000 kilocalories is 1549.995
+In the city of Pereira for the year 2014 and month November , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  552.0384
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1190.146CoRD: Average daily cost per 1000 kilocalories is 1559.592
+In the city of Pereira for the year 2014 and month December , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Guayaba manzana, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Róbalo, filete congelado, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2014 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  552.8523
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1186.196CoRD: Average daily cost per 1000 kilocalories is 1563.548
+In the city of Pereira for the year 2015 and month January , the following foods were omitted due to lack of nutritional information: 44 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  597.1597
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1235.228CoRD: Average daily cost per 1000 kilocalories is 1652.972
+In the city of Pereira for the year 2015 and month February , the following foods were omitted due to lack of nutritional information: 44 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  600.1221
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1235.676CoRD: Average daily cost per 1000 kilocalories is 1656.086
+In the city of Pereira for the year 2015 and month March , the following foods were omitted due to lack of nutritional information: 44 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  604.0677
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1244.256CoRD: Average daily cost per 1000 kilocalories is 1660.21
+In the city of Pereira for the year 2015 and month April , the following foods were omitted due to lack of nutritional information: 44 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  606.828
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1252.445CoRD: Average daily cost per 1000 kilocalories is 1655.588
+In the city of Pereira for the year 2015 and month May , the following foods were omitted due to lack of nutritional information: 44 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  608.7725
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1254.789CoRD: Average daily cost per 1000 kilocalories is 1659.749
+In the city of Pereira for the year 2015 and month June , the following foods were omitted due to lack of nutritional information: 44 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol radical, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  611.2725
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1261.647CoRD: Average daily cost per 1000 kilocalories is 1669.171
+In the city of Pereira for the year 2015 and month July , the following foods were omitted due to lack of nutritional information: 43 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas saladas 3 tacos, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  614.7145
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1269.13CoRD: Average daily cost per 1000 kilocalories is 1680.654
+In the city of Pereira for the year 2015 and month August , the following foods were omitted due to lack of nutritional information: 42 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  621.3565
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1275.92CoRD: Average daily cost per 1000 kilocalories is 1695.37
+In the city of Pereira for the year 2015 and month September , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  628.3079
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1283.521CoRD: Average daily cost per 1000 kilocalories is 1705.031
+In the city of Pereira for the year 2015 and month October , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  627.1955
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1288.76CoRD: Average daily cost per 1000 kilocalories is 1708.566
+In the city of Pereira for the year 2015 and month November , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  628.7149
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1298.876CoRD: Average daily cost per 1000 kilocalories is 1708.436
+In the city of Pereira for the year 2015 and month December , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2015 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  640.7617
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1319.793CoRD: Average daily cost per 1000 kilocalories is 1734.925
+In the city of Pereira for the year 2016 and month January , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  678.8558
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1472.873CoRD: Average daily cost per 1000 kilocalories is 1945.997
+In the city of Pereira for the year 2016 and month February , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  681.0461
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1478.996CoRD: Average daily cost per 1000 kilocalories is 1951.944
+In the city of Pereira for the year 2016 and month March , the following foods were omitted due to lack of nutritional information: 41 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Chocolate instantáneo, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  676.9674
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1480.185CoRD: Average daily cost per 1000 kilocalories is 1952.357
+In the city of Pereira for the year 2016 and month April , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  671.729
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1478.3CoRD: Average daily cost per 1000 kilocalories is 1949.766
+In the city of Pereira for the year 2016 and month May , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  666.0357
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1461.494CoRD: Average daily cost per 1000 kilocalories is 1945.674
+In the city of Pereira for the year 2016 and month June , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  659.832
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1451.382CoRD: Average daily cost per 1000 kilocalories is 1933.908
+In the city of Pereira for the year 2016 and month July , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  654.3822
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1454.864CoRD: Average daily cost per 1000 kilocalories is 1905.349
+In the city of Pereira for the year 2016 and month August , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  645.7758
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1453.234CoRD: Average daily cost per 1000 kilocalories is 1860.119
+In the city of Pereira for the year 2016 and month September , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  636.6104
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1461.744CoRD: Average daily cost per 1000 kilocalories is 1835.942
+In the city of Pereira for the year 2016 and month October , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  633.2731
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1469.155CoRD: Average daily cost per 1000 kilocalories is 1816.688
+In the city of Pereira for the year 2016 and month November , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  628.5521
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1467.255CoRD: Average daily cost per 1000 kilocalories is 1800.709
+In the city of Pereira for the year 2016 and month December , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2016 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  624.4822
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1465.819CoRD: Average daily cost per 1000 kilocalories is 1812.203
+In the city of Pereira for the year 2017 and month January , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  585.0858
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1414.87CoRD: Average daily cost per 1000 kilocalories is 1965.562
+In the city of Pereira for the year 2017 and month February , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  581.5043
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1404.567CoRD: Average daily cost per 1000 kilocalories is 1973.868
+In the city of Pereira for the year 2017 and month March , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  577.2065
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1402.553CoRD: Average daily cost per 1000 kilocalories is 1976.91
+In the city of Pereira for the year 2017 and month April , the following foods were omitted due to lack of nutritional information: 40 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano guineo, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  572.5686
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1392.562CoRD: Average daily cost per 1000 kilocalories is 1980.842
+In the city of Pereira for the year 2017 and month May , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  570.3935
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1387.634CoRD: Average daily cost per 1000 kilocalories is 1992.008
+In the city of Pereira for the year 2017 and month June , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  568.7132
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1395.781CoRD: Average daily cost per 1000 kilocalories is 2002.994
+In the city of Pereira for the year 2017 and month July , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  567.6124
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1411.485CoRD: Average daily cost per 1000 kilocalories is 2007.209
+In the city of Pereira for the year 2017 and month August , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  570.1086
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1427.188CoRD: Average daily cost per 1000 kilocalories is 2009.518
+In the city of Pereira for the year 2017 and month September , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  573.8529
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1432.392CoRD: Average daily cost per 1000 kilocalories is 2003.476
+In the city of Pereira for the year 2017 and month October , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  574.7754
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1440.496CoRD: Average daily cost per 1000 kilocalories is 2013.876
+In the city of Pereira for the year 2017 and month November , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  574.0157
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1444.089CoRD: Average daily cost per 1000 kilocalories is 2016.549
+In the city of Pereira for the year 2017 and month December , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2017 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  572.7133
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1446.841CoRD: Average daily cost per 1000 kilocalories is 2017.562
+In the city of Pereira for the year 2018 and month January , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  608.3112
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1472.04CoRD: Average daily cost per 1000 kilocalories is 2031.569
+In the city of Pereira for the year 2018 and month February , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  611.133
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1467.715CoRD: Average daily cost per 1000 kilocalories is 2027.452
+In the city of Pereira for the year 2018 and month March , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  614.5191
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1464.294CoRD: Average daily cost per 1000 kilocalories is 2019.383
+In the city of Pereira for the year 2018 and month April , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  618.8025
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1461.522CoRD: Average daily cost per 1000 kilocalories is 2008.135
+In the city of Pereira for the year 2018 and month May , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  617.3599
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1456.736CoRD: Average daily cost per 1000 kilocalories is 2004.606
+In the city of Pereira for the year 2018 and month June , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  613.6912
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1456.745CoRD: Average daily cost per 1000 kilocalories is 2006.373
+In the city of Pereira for the year 2018 and month July , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  610.8074
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1459.036CoRD: Average daily cost per 1000 kilocalories is 2014.984
+In the city of Pereira for the year 2018 and month August , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  608.2678
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1469.335CoRD: Average daily cost per 1000 kilocalories is 2016.293
+In the city of Pereira for the year 2018 and month September , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  605.9236
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1483.122CoRD: Average daily cost per 1000 kilocalories is 2020.814
+In the city of Pereira for the year 2018 and month October , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  607.3344
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1496.94CoRD: Average daily cost per 1000 kilocalories is 2019.344
+In the city of Pereira for the year 2018 and month November , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  612.2726
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1515.173CoRD: Average daily cost per 1000 kilocalories is 2028.466
+In the city of Pereira for the year 2018 and month December , the following foods were omitted due to lack of nutritional information: 39 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2018 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  616.9936
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1511.059CoRD: Average daily cost per 1000 kilocalories is 2028.655
+In the city of Pereira for the year 2019 and month January , the following foods were omitted due to lack of nutritional information: 38 : Aceite girasol, Arracacha blanca, Arroz de segunda, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Manteca, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  639.1338
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1528.032CoRD: Average daily cost per 1000 kilocalories is 2064.905
+In the city of Pereira for the year 2019 and month February , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  665.181
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2127.62CoRD: Average daily cost per 1000 kilocalories is 2630.948
+In the city of Pereira for the year 2019 and month March , the following foods were omitted due to lack of nutritional information: 36 : Arracacha blanca, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  685.042
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2135.835CoRD: Average daily cost per 1000 kilocalories is 2696.652
+In the city of Pereira for the year 2019 and month April , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  685.042
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2110.938CoRD: Average daily cost per 1000 kilocalories is 2673.447
+In the city of Pereira for the year 2019 and month May , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  697.0888
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2103.335CoRD: Average daily cost per 1000 kilocalories is 2680.217
+In the city of Pereira for the year 2019 and month June , the following foods were omitted due to lack of nutritional information: 35 : Arracacha blanca, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  715.9731
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2057.369CoRD: Average daily cost per 1000 kilocalories is 2656.927
+In the city of Pereira for the year 2019 and month July , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  721.5081
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2068.575CoRD: Average daily cost per 1000 kilocalories is 2652.987
+In the city of Pereira for the year 2019 and month August , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  714.6707
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2184.833CoRD: Average daily cost per 1000 kilocalories is 2715.778
+In the city of Pereira for the year 2019 and month September , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  709.1357
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2216.156CoRD: Average daily cost per 1000 kilocalories is 2761.744
+In the city of Pereira for the year 2019 and month October , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  740.0668
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2187.962CoRD: Average daily cost per 1000 kilocalories is 2799.639
+In the city of Pereira for the year 2019 and month November , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  747.8809
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2178.579CoRD: Average daily cost per 1000 kilocalories is 2720.396
+In the city of Pereira for the year 2019 and month December , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2019 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  729.3223
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2172.613CoRD: Average daily cost per 1000 kilocalories is 2680.481
+In the city of Pereira for the year 2020 and month January , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  729.3223
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2189.123CoRD: Average daily cost per 1000 kilocalories is 2719.922
+In the city of Pereira for the year 2020 and month February , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  729.3223
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2271.366CoRD: Average daily cost per 1000 kilocalories is 2810.221
+In the city of Pereira for the year 2020 and month March , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  757.6486
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2280.351CoRD: Average daily cost per 1000 kilocalories is 2885.612
+In the city of Pereira for the year 2020 and month April , the following foods were omitted due to lack of nutritional information: 43 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa R-12 roja, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  875.8578
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2393.186CoRD: Average daily cost per 1000 kilocalories is 2789.405
+In the city of Pereira for the year 2020 and month May , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  871.9981
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2418.828CoRD: Average daily cost per 1000 kilocalories is 2918.835
+In the city of Pereira for the year 2020 and month June , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Galletas dulces redondas con crema, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  869.9198
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2432.675CoRD: Average daily cost per 1000 kilocalories is 2943.35
+In the city of Pereira for the year 2020 and month July , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  868.1384
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2439.827CoRD: Average daily cost per 1000 kilocalories is 2918.524
+In the city of Pereira for the year 2020 and month August , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  866.0601
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2450.906CoRD: Average daily cost per 1000 kilocalories is 2932.916
+In the city of Pereira for the year 2020 and month September , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  866.0601
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2548.916CoRD: Average daily cost per 1000 kilocalories is 3051.764
+In the city of Pereira for the year 2020 and month October , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  833.3506
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2515.904CoRD: Average daily cost per 1000 kilocalories is 3020.729
+In the city of Pereira for the year 2020 and month November , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  866.0601
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2510.622CoRD: Average daily cost per 1000 kilocalories is 3047.338
+In the city of Pereira for the year 2020 and month December , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2020 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  862.7942
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2480.158CoRD: Average daily cost per 1000 kilocalories is 3038.495
+In the city of Pereira for the year 2021 and month January , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  866.0601
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2491.885CoRD: Average daily cost per 1000 kilocalories is 3083.21
+In the city of Pereira for the year 2021 and month February , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  866.0601
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2504.561CoRD: Average daily cost per 1000 kilocalories is 3129.426
+In the city of Pereira for the year 2021 and month March , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  871.7012
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2517.981CoRD: Average daily cost per 1000 kilocalories is 3209.246
+In the city of Pereira for the year 2021 and month April , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  872.582
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2535.607CoRD: Average daily cost per 1000 kilocalories is 3250.934
+In the city of Pereira for the year 2021 and month May , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja enlatada, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  874.8611
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2544.225CoRD: Average daily cost per 1000 kilocalories is 3405.364
+In the city of Pereira for the year 2021 and month June , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  855.6513
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2579.072CoRD: Average daily cost per 1000 kilocalories is 3319.094
+In the city of Pereira for the year 2021 and month July , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  881.0474
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2658.958CoRD: Average daily cost per 1000 kilocalories is 3443.714
+In the city of Pereira for the year 2021 and month August , the following foods were omitted due to lack of nutritional information: 38 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  895.3733
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2700.349CoRD: Average daily cost per 1000 kilocalories is 3437.176
+In the city of Pereira for the year 2021 and month September , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  865.8488
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2685.076CoRD: Average daily cost per 1000 kilocalories is 3433.428
+In the city of Pereira for the year 2021 and month October , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango reina, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  838.942
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2732.765CoRD: Average daily cost per 1000 kilocalories is 3475.892
+In the city of Pereira for the year 2021 and month November , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  819.2793
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2977.797CoRD: Average daily cost per 1000 kilocalories is 1943.493
+In the city of Pereira for the year 2021 and month December , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2021 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  819.2793
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2991.13CoRD: Average daily cost per 1000 kilocalories is 1921.633
+In the city of Pereira for the year 2022 and month January , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  819.2793
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2758.406CoRD: Average daily cost per 1000 kilocalories is 3741.708
+In the city of Pereira for the year 2022 and month February , the following foods were omitted due to lack of nutritional information: 38 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  946.9144
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2942.084CoRD: Average daily cost per 1000 kilocalories is 3991.888
+In the city of Pereira for the year 2022 and month March , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  1023.715
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2945.566CoRD: Average daily cost per 1000 kilocalories is 4003.974
+In the city of Pereira for the year 2022 and month April , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  1023.715
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2983.8CoRD: Average daily cost per 1000 kilocalories is 4076.806
+In the city of Pereira for the year 2022 and month May , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  1033.809
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3202.084CoRD: Average daily cost per 1000 kilocalories is 4067.671
+In the city of Pereira for the year 2022 and month June , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1039.45
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3277.115CoRD: Average daily cost per 1000 kilocalories is 4093.054
+In the city of Pereira for the year 2022 and month July , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1049.248
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3298.282CoRD: Average daily cost per 1000 kilocalories is 4085.173
+In the city of Pereira for the year 2022 and month August , the following foods were omitted due to lack of nutritional information: 38 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1157.617
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3429.941CoRD: Average daily cost per 1000 kilocalories is 4090.166
+In the city of Pereira for the year 2022 and month September , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1156.429
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3584.779CoRD: Average daily cost per 1000 kilocalories is 4296.65
+In the city of Pereira for the year 2022 and month October , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1155.835
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3581.57CoRD: Average daily cost per 1000 kilocalories is 4355.345
+In the city of Pereira for the year 2022 and month November , the following foods were omitted due to lack of nutritional information: 42 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1155.835
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3558.018CoRD: Average daily cost per 1000 kilocalories is 4422.754
+In the city of Pereira for the year 2022 and month December , the following foods were omitted due to lack of nutritional information: 42 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2022 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1199.48
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3588.086CoRD: Average daily cost per 1000 kilocalories is 4537.569
+In the city of Pereira for the year 2023 and month January , the following foods were omitted due to lack of nutritional information: 42 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  1264.798
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3743.776CoRD: Average daily cost per 1000 kilocalories is 4680.761
+In the city of Pereira for the year 2023 and month February , the following foods were omitted due to lack of nutritional information: 40 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  1305.77
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3909.971CoRD: Average daily cost per 1000 kilocalories is 4861.516
+In the city of Pereira for the year 2023 and month March , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  1319.725
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3944.534CoRD: Average daily cost per 1000 kilocalories is 4846.444
+In the city of Pereira for the year 2023 and month April , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  1333.523
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3918.111CoRD: Average daily cost per 1000 kilocalories is 4767.976
+In the city of Pereira for the year 2023 and month May , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  1333.523
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3920.57CoRD: Average daily cost per 1000 kilocalories is 4671.886
+In the city of Pereira for the year 2023 and month June , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1333.523
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  3904.42CoRD: Average daily cost per 1000 kilocalories is 4605.632
+In the city of Pereira for the year 2023 and month July , the following foods were omitted due to lack of nutritional information: 42 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Azúcar refinada, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Mostaza doy pack, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja, Vinagre . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1221.576
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4118.54CoRD: Average daily cost per 1000 kilocalories is 4776.381
+In the city of Pereira for the year 2023 and month August , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Azúcar refinada, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1181.635
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4156.772CoRD: Average daily cost per 1000 kilocalories is 4818.291
+In the city of Pereira for the year 2023 and month September , the following foods were omitted due to lack of nutritional information: 39 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Azúcar refinada, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1171.79
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4123.546CoRD: Average daily cost per 1000 kilocalories is 4900.689
+In the city of Pereira for the year 2023 and month October , the following foods were omitted due to lack of nutritional information: 38 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Azúcar refinada, Berenjena, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1158.289
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4087.745CoRD: Average daily cost per 1000 kilocalories is 5032.728
+In the city of Pereira for the year 2023 and month November , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Azúcar refinada, Berenjena, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1176.572
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4108.511CoRD: Average daily cost per 1000 kilocalories is 4953.635
+In the city of Pereira for the year 2023 and month December , the following foods were omitted due to lack of nutritional information: 41 : Arracacha blanca, Arveja enlatada, Arveja verde en vaina, Azúcar refinada, Berenjena, Camarón tití precocido seco, Carne de cerdo en canal, Carne de cerdo, tocino barriga, Carne de res, centro de pierna, Carne de res, cogote, Carne de res, lomo de brazo, Carne de res, lomo fino, Carne de res, paletero, Cebolla cabezona blanca, Cebolla cabezona roja, Cebolla junca, Color (bolsita), Fríjol bolón, Fríjol cargamanto rojo, Fríjol Uribe rosado, Fríjol verde en vaina, Garbanzo importado, Guayaba agria, Huevo blanco A, Huevo blanco AA, Huevo blanco B, Huevo blanco extra, Mango manzano, Mango Yulima, Naranja Valencia, Papa nevada, Papa rubí, Pitahaya, Plátano dominico hartón maduro, Plátano dominico hartón verde, Plátano hartón maduro, Remolacha, Repollo blanco bogotano, Tangelo, Tomate riñón valluno, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Pereira _ 2023 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1188.666
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  4091.296CoRD: Average daily cost per 1000 kilocalories is 4846.209

@@ -1,0 +1,1057 @@
+
+In the city of Villavicencio for the year 2013 and month January , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  628.3624
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1276.466CoRD: Average daily cost per 1000 kilocalories is 1711.203
+In the city of Villavicencio for the year 2013 and month February , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  628.9059
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1273.281CoRD: Average daily cost per 1000 kilocalories is 1713.968
+In the city of Villavicencio for the year 2013 and month March , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  628.3624
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1272.475CoRD: Average daily cost per 1000 kilocalories is 1720.37
+In the city of Villavicencio for the year 2013 and month April , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  629.1665
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1270.263CoRD: Average daily cost per 1000 kilocalories is 1728.072
+In the city of Villavicencio for the year 2013 and month May , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  630.3289
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1269.671CoRD: Average daily cost per 1000 kilocalories is 1725.51
+In the city of Villavicencio for the year 2013 and month June , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  629.3962
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1271.604CoRD: Average daily cost per 1000 kilocalories is 1718.203
+In the city of Villavicencio for the year 2013 and month July , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  628.8343
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1273.4CoRD: Average daily cost per 1000 kilocalories is 1675.547
+In the city of Villavicencio for the year 2013 and month August , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  627.4813
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1275.746CoRD: Average daily cost per 1000 kilocalories is 1663.051
+In the city of Villavicencio for the year 2013 and month September , the following foods were omitted due to lack of nutritional information: 43 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca criolla, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  626.0025
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1271.978CoRD: Average daily cost per 1000 kilocalories is 1632.167
+In the city of Villavicencio for the year 2013 and month October , the following foods were omitted due to lack of nutritional information: 42 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  623.3279
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1266.023CoRD: Average daily cost per 1000 kilocalories is 1643.019
+In the city of Villavicencio for the year 2013 and month November , the following foods were omitted due to lack of nutritional information: 40 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  619.7094
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1260.194CoRD: Average daily cost per 1000 kilocalories is 1622.334
+In the city of Villavicencio for the year 2013 and month December , the following foods were omitted due to lack of nutritional information: 39 : Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2013 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  613.5737
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1244.257CoRD: Average daily cost per 1000 kilocalories is 1591.179
+In the city of Villavicencio for the year 2014 and month January , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  644.447
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1195.588CoRD: Average daily cost per 1000 kilocalories is 1780.151
+In the city of Villavicencio for the year 2014 and month February , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  643.275
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1202.76CoRD: Average daily cost per 1000 kilocalories is 1793.534
+In the city of Villavicencio for the year 2014 and month March , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  643.6125
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1209.281CoRD: Average daily cost per 1000 kilocalories is 1810.373
+In the city of Villavicencio for the year 2014 and month April , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  643.2438
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1212.196CoRD: Average daily cost per 1000 kilocalories is 1820.055
+In the city of Villavicencio for the year 2014 and month May , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  642.2905
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1210.943CoRD: Average daily cost per 1000 kilocalories is 1815.793
+In the city of Villavicencio for the year 2014 and month June , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  642.9134
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1211.539CoRD: Average daily cost per 1000 kilocalories is 1810.817
+In the city of Villavicencio for the year 2014 and month July , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, brazo con hueso, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  643.1812
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1212.928CoRD: Average daily cost per 1000 kilocalories is 1811.7
+In the city of Villavicencio for the year 2014 and month August , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  642.8812
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1216.25CoRD: Average daily cost per 1000 kilocalories is 1777.814
+In the city of Villavicencio for the year 2014 and month September , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  642.3609
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1216.685CoRD: Average daily cost per 1000 kilocalories is 1802.019
+In the city of Villavicencio for the year 2014 and month October , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  641.7749
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1222.897CoRD: Average daily cost per 1000 kilocalories is 1796.898
+In the city of Villavicencio for the year 2014 and month November , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  640.6029
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1222.351CoRD: Average daily cost per 1000 kilocalories is 1780.743
+In the city of Villavicencio for the year 2014 and month December , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2014 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  639.0559
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1219.766CoRD: Average daily cost per 1000 kilocalories is 1785.607
+In the city of Villavicencio for the year 2015 and month January , the following foods were omitted due to lack of nutritional information: 46 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  652.2758
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1254.836CoRD: Average daily cost per 1000 kilocalories is 2031.652
+In the city of Villavicencio for the year 2015 and month February , the following foods were omitted due to lack of nutritional information: 46 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  652.7616
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1259.757CoRD: Average daily cost per 1000 kilocalories is 2048.467
+In the city of Villavicencio for the year 2015 and month March , the following foods were omitted due to lack of nutritional information: 46 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  653.3446
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1269.412CoRD: Average daily cost per 1000 kilocalories is 2070.715
+In the city of Villavicencio for the year 2015 and month April , the following foods were omitted due to lack of nutritional information: 46 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  653.2759
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1279.938CoRD: Average daily cost per 1000 kilocalories is 2092.76
+In the city of Villavicencio for the year 2015 and month May , the following foods were omitted due to lack of nutritional information: 46 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  653.9283
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1287.731CoRD: Average daily cost per 1000 kilocalories is 2114.029
+In the city of Villavicencio for the year 2015 and month June , the following foods were omitted due to lack of nutritional information: 46 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Mojarra lora entera fresca, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  655.1287
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1297.84CoRD: Average daily cost per 1000 kilocalories is 2132.55
+In the city of Villavicencio for the year 2015 and month July , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  655.9792
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1310.555CoRD: Average daily cost per 1000 kilocalories is 2116.772
+In the city of Villavicencio for the year 2015 and month August , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  657.62
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1320.899CoRD: Average daily cost per 1000 kilocalories is 2207.837
+In the city of Villavicencio for the year 2015 and month September , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  664.6519
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1330.989CoRD: Average daily cost per 1000 kilocalories is 2254.234
+In the city of Villavicencio for the year 2015 and month October , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  672.2463
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1339.832CoRD: Average daily cost per 1000 kilocalories is 2293.867
+In the city of Villavicencio for the year 2015 and month November , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  677.3092
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1351.556CoRD: Average daily cost per 1000 kilocalories is 2301.39
+In the city of Villavicencio for the year 2015 and month December , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2015 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  680.6845
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1361.819CoRD: Average daily cost per 1000 kilocalories is 2351.458
+In the city of Villavicencio for the year 2016 and month January , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  714.7891
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1455.606CoRD: Average daily cost per 1000 kilocalories is 2623.114
+In the city of Villavicencio for the year 2016 and month February , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  717.6593
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1460.29CoRD: Average daily cost per 1000 kilocalories is 2635.108
+In the city of Villavicencio for the year 2016 and month March , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  720.4005
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1464.037CoRD: Average daily cost per 1000 kilocalories is 2637.147
+In the city of Villavicencio for the year 2016 and month April , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  723.7508
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1465.199CoRD: Average daily cost per 1000 kilocalories is 2599.984
+In the city of Villavicencio for the year 2016 and month May , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  726.3213
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1460.359CoRD: Average daily cost per 1000 kilocalories is 2535.708
+In the city of Villavicencio for the year 2016 and month June , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  729.3852
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1457.428CoRD: Average daily cost per 1000 kilocalories is 2374.243
+In the city of Villavicencio for the year 2016 and month July , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  735.2518
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1458.787CoRD: Average daily cost per 1000 kilocalories is 2346.859
+In the city of Villavicencio for the year 2016 and month August , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  742.3962
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1451.386CoRD: Average daily cost per 1000 kilocalories is 2274.53
+In the city of Villavicencio for the year 2016 and month September , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  748.8233
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1445.661CoRD: Average daily cost per 1000 kilocalories is 2234.259
+In the city of Villavicencio for the year 2016 and month October , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  748.753
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1446.727CoRD: Average daily cost per 1000 kilocalories is 2244.767
+In the city of Villavicencio for the year 2016 and month November , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  751.0032
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1451.253CoRD: Average daily cost per 1000 kilocalories is 2196.302
+In the city of Villavicencio for the year 2016 and month December , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2016 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  750.4406
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1465.003CoRD: Average daily cost per 1000 kilocalories is 2220.049
+In the city of Villavicencio for the year 2017 and month January , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  555.3038
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1333.973CoRD: Average daily cost per 1000 kilocalories is 2242.201
+In the city of Villavicencio for the year 2017 and month February , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  530.67
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1321.018CoRD: Average daily cost per 1000 kilocalories is 2242.481
+In the city of Villavicencio for the year 2017 and month March , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  501.6142
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1308.36CoRD: Average daily cost per 1000 kilocalories is 2249.484
+In the city of Villavicencio for the year 2017 and month April , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  501.6637
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1306.662CoRD: Average daily cost per 1000 kilocalories is 2260.306
+In the city of Villavicencio for the year 2017 and month May , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  503.0616
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1302.732CoRD: Average daily cost per 1000 kilocalories is 2271.844
+In the city of Villavicencio for the year 2017 and month June , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.0285
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1307.165CoRD: Average daily cost per 1000 kilocalories is 2284.281
+In the city of Villavicencio for the year 2017 and month July , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina común, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  508.8388
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1313.273CoRD: Average daily cost per 1000 kilocalories is 2283.962
+In the city of Villavicencio for the year 2017 and month August , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  512.2729
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1313.819CoRD: Average daily cost per 1000 kilocalories is 2263.886
+In the city of Villavicencio for the year 2017 and month September , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  512.1542
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1309.357CoRD: Average daily cost per 1000 kilocalories is 2234.182
+In the city of Villavicencio for the year 2017 and month October , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  510.8676
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1310.526CoRD: Average daily cost per 1000 kilocalories is 2200.562
+In the city of Villavicencio for the year 2017 and month November , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  508.2945
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1317.024CoRD: Average daily cost per 1000 kilocalories is 2214.536
+In the city of Villavicencio for the year 2017 and month December , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2017 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.9192
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1325.74CoRD: Average daily cost per 1000 kilocalories is 2204.836
+In the city of Villavicencio for the year 2018 and month January , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  496.6163
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1282.016CoRD: Average daily cost per 1000 kilocalories is 2306.72
+In the city of Villavicencio for the year 2018 and month February , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  495.6627
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1279.492CoRD: Average daily cost per 1000 kilocalories is 2310.022
+In the city of Villavicencio for the year 2018 and month March , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  495.6168
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1282.316CoRD: Average daily cost per 1000 kilocalories is 2304.9
+In the city of Villavicencio for the year 2018 and month April , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.9009
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1284.674CoRD: Average daily cost per 1000 kilocalories is 2295.845
+In the city of Villavicencio for the year 2018 and month May , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.8226
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1281.615CoRD: Average daily cost per 1000 kilocalories is 2285.404
+In the city of Villavicencio for the year 2018 and month June , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.9339
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1281.28CoRD: Average daily cost per 1000 kilocalories is 2279.232
+In the city of Villavicencio for the year 2018 and month July , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.736
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1283.152CoRD: Average daily cost per 1000 kilocalories is 2221.683
+In the city of Villavicencio for the year 2018 and month August , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Uva verde, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.8151
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1288.637CoRD: Average daily cost per 1000 kilocalories is 2225.462
+In the city of Villavicencio for the year 2018 and month September , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Piña perolera, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  495.0824
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1293.307CoRD: Average daily cost per 1000 kilocalories is 2217.737
+In the city of Villavicencio for the year 2018 and month October , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  497.606
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1304.096CoRD: Average daily cost per 1000 kilocalories is 2255.523
+In the city of Villavicencio for the year 2018 and month November , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  502.6533
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1308.93CoRD: Average daily cost per 1000 kilocalories is 2279.385
+In the city of Villavicencio for the year 2018 and month December , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2018 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  506.513
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1320.212CoRD: Average daily cost per 1000 kilocalories is 2307.894
+In the city of Villavicencio for the year 2019 and month January , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  507.1068
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1341.373CoRD: Average daily cost per 1000 kilocalories is 2426.576
+In the city of Villavicencio for the year 2019 and month February , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.9192
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1350.426CoRD: Average daily cost per 1000 kilocalories is 2571.276
+In the city of Villavicencio for the year 2019 and month March , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  505.3254
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1386.72CoRD: Average daily cost per 1000 kilocalories is 2549.377
+In the city of Villavicencio for the year 2019 and month April , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  494.637
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1435.688CoRD: Average daily cost per 1000 kilocalories is 2656.172
+In the city of Villavicencio for the year 2019 and month May , the following foods were omitted due to lack of nutritional information: 45 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Nicuro fresco, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  495.8246
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1390.387CoRD: Average daily cost per 1000 kilocalories is 2519.796
+In the city of Villavicencio for the year 2019 and month June , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  536.7969
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1382.517CoRD: Average daily cost per 1000 kilocalories is 2798.473
+In the city of Villavicencio for the year 2019 and month July , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Manteca, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  563.8149
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1394.27CoRD: Average daily cost per 1000 kilocalories is 2630.698
+In the city of Villavicencio for the year 2019 and month August , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Manteca, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  584.3011
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1407.429CoRD: Average daily cost per 1000 kilocalories is 2637.765
+In the city of Villavicencio for the year 2019 and month September , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  581.3321
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1411.383CoRD: Average daily cost per 1000 kilocalories is 2821.544
+In the city of Villavicencio for the year 2019 and month October , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  568.5653
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1379.554CoRD: Average daily cost per 1000 kilocalories is 2789.704
+In the city of Villavicencio for the year 2019 and month November , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  564.1118
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1395.417CoRD: Average daily cost per 1000 kilocalories is 2629.17
+In the city of Villavicencio for the year 2019 and month December , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2019 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  560.2521
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1395.213CoRD: Average daily cost per 1000 kilocalories is 2260.133
+In the city of Villavicencio for the year 2020 and month January , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  570.0499
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1392.107CoRD: Average daily cost per 1000 kilocalories is 2265.763
+In the city of Villavicencio for the year 2020 and month February , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  573.6127
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1390.2CoRD: Average daily cost per 1000 kilocalories is 2336.074
+In the city of Villavicencio for the year 2020 and month March , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  581.3321
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1438.296CoRD: Average daily cost per 1000 kilocalories is 2474.004
+In the city of Villavicencio for the year 2020 and month April , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  679.9032
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1581.125CoRD: Average daily cost per 1000 kilocalories is 2691.525
+In the city of Villavicencio for the year 2020 and month May , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  683.466
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1602.513CoRD: Average daily cost per 1000 kilocalories is 2655.735
+In the city of Villavicencio for the year 2020 and month June , the following foods were omitted due to lack of nutritional information: 44 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fécula de maíz, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  663.2768
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1572.335CoRD: Average daily cost per 1000 kilocalories is 2509.067
+In the city of Villavicencio for the year 2020 and month July , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Bagre rayado entero fresco, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  629.43
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1566.946CoRD: Average daily cost per 1000 kilocalories is 2399.263
+In the city of Villavicencio for the year 2020 and month August , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  600.9276
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1511.308CoRD: Average daily cost per 1000 kilocalories is 2442.975
+In the city of Villavicencio for the year 2020 and month September , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  599.443
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1479.395CoRD: Average daily cost per 1000 kilocalories is 2494.497
+In the city of Villavicencio for the year 2020 and month October , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  599.7399
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1462.292CoRD: Average daily cost per 1000 kilocalories is 2512.452
+In the city of Villavicencio for the year 2020 and month November , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  595.8802
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1488.231CoRD: Average daily cost per 1000 kilocalories is 2499.371
+In the city of Villavicencio for the year 2020 and month December , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2020 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  588.1608
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1503.971CoRD: Average daily cost per 1000 kilocalories is 2480.857
+In the city of Villavicencio for the year 2021 and month January , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  592.6143
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1493.662CoRD: Average daily cost per 1000 kilocalories is 2496.272
+In the city of Villavicencio for the year 2021 and month February , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  605.0842
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1470.115CoRD: Average daily cost per 1000 kilocalories is 2629.228
+In the city of Villavicencio for the year 2021 and month March , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa R-12 negra, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  607.1625
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1468.074CoRD: Average daily cost per 1000 kilocalories is 2866.207
+In the city of Villavicencio for the year 2021 and month April , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  627.0548
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1548.899CoRD: Average daily cost per 1000 kilocalories is 2818.199
+In the city of Villavicencio for the year 2021 and month May , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  657.6356
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1611.202CoRD: Average daily cost per 1000 kilocalories is 2970.494
+In the city of Villavicencio for the year 2021 and month June , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  706.0305
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1630.83CoRD: Average daily cost per 1000 kilocalories is 2808.085
+In the city of Villavicencio for the year 2021 and month July , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  709.2964
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1633.867CoRD: Average daily cost per 1000 kilocalories is 2866.969
+In the city of Villavicencio for the year 2021 and month August , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  706.0305
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1725.682CoRD: Average daily cost per 1000 kilocalories is 3108.053
+In the city of Villavicencio for the year 2021 and month September , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  731.564
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1802.592CoRD: Average daily cost per 1000 kilocalories is 3247.347
+In the city of Villavicencio for the year 2021 and month October , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  748.1904
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1862.966CoRD: Average daily cost per 1000 kilocalories is 3197.673
+In the city of Villavicencio for the year 2021 and month November , the following foods were omitted due to lack of nutritional information: 43 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina arrayana, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  807.8956
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2733.946CoRD: Average daily cost per 1000 kilocalories is 2732.04
+In the city of Villavicencio for the year 2021 and month December , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Mandarina arrayana, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2021 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  830.663
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2761.421CoRD: Average daily cost per 1000 kilocalories is 2805.43
+In the city of Villavicencio for the year 2022 and month January , the following foods were omitted due to lack of nutritional information: 39 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  889.996
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2112.896CoRD: Average daily cost per 1000 kilocalories is 3415.581
+In the city of Villavicencio for the year 2022 and month February , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res molida, murillo, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  956.318
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2009.961CoRD: Average daily cost per 1000 kilocalories is 3477.907
+In the city of Villavicencio for the year 2022 and month March , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  945.9265
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2015.523CoRD: Average daily cost per 1000 kilocalories is 3525.753
+In the city of Villavicencio for the year 2022 and month April , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Fríjol nima calima, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  971.7569
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2094.285CoRD: Average daily cost per 1000 kilocalories is 3652.816
+In the city of Villavicencio for the year 2022 and month May , the following foods were omitted due to lack of nutritional information: 39 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  977.1011
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2128CoRD: Average daily cost per 1000 kilocalories is 3753.325
+In the city of Villavicencio for the year 2022 and month June , the following foods were omitted due to lack of nutritional information: 39 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1003.869
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2142.598CoRD: Average daily cost per 1000 kilocalories is 3585.914
+In the city of Villavicencio for the year 2022 and month July , the following foods were omitted due to lack of nutritional information: 38 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1094.674
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2295.474CoRD: Average daily cost per 1000 kilocalories is 3753.633
+In the city of Villavicencio for the year 2022 and month August , the following foods were omitted due to lack of nutritional information: 39 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1135.349
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2423.402CoRD: Average daily cost per 1000 kilocalories is 3772.25
+In the city of Villavicencio for the year 2022 and month September , the following foods were omitted due to lack of nutritional information: 39 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1135.943
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2469.735CoRD: Average daily cost per 1000 kilocalories is 4021.276
+In the city of Villavicencio for the year 2022 and month October , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1123.176
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2487.998CoRD: Average daily cost per 1000 kilocalories is 4269.582
+In the city of Villavicencio for the year 2022 and month November , the following foods were omitted due to lack of nutritional information: 39 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1132.974
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2555.313CoRD: Average daily cost per 1000 kilocalories is 4398.016
+In the city of Villavicencio for the year 2022 and month December , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2022 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1152.866
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2648.537CoRD: Average daily cost per 1000 kilocalories is 4687.127
+In the city of Villavicencio for the year 2023 and month January , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  1162.664
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2629.136CoRD: Average daily cost per 1000 kilocalories is 4877.138
+In the city of Villavicencio for the year 2023 and month February , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  1160.586
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2607.714CoRD: Average daily cost per 1000 kilocalories is 4977.842
+In the city of Villavicencio for the year 2023 and month March , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  1158.508
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2546.62CoRD: Average daily cost per 1000 kilocalories is 4890.474
+In the city of Villavicencio for the year 2023 and month April , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  1153.757
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2571.395CoRD: Average daily cost per 1000 kilocalories is 4915.759
+In the city of Villavicencio for the year 2023 and month May , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Plátano hartón verde ecuatoriano, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  1158.211
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2567.384CoRD: Average daily cost per 1000 kilocalories is 4539.426
+In the city of Villavicencio for the year 2023 and month June , the following foods were omitted due to lack of nutritional information: 42 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Mango de azúcar, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1136.834
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2465.709CoRD: Average daily cost per 1000 kilocalories is 4414.047
+In the city of Villavicencio for the year 2023 and month July , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1136.24
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2445.532CoRD: Average daily cost per 1000 kilocalories is 4509.805
+In the city of Villavicencio for the year 2023 and month August , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1120.207
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2419.572CoRD: Average daily cost per 1000 kilocalories is 4405.317
+In the city of Villavicencio for the year 2023 and month September , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1116.051
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2419.706CoRD: Average daily cost per 1000 kilocalories is 4336.279
+In the city of Villavicencio for the year 2023 and month October , the following foods were omitted due to lack of nutritional information: 40 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1103.878
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2438.042CoRD: Average daily cost per 1000 kilocalories is 4198.301
+In the city of Villavicencio for the year 2023 and month November , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1019.62
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2488.547CoRD: Average daily cost per 1000 kilocalories is 4188.556
+In the city of Villavicencio for the year 2023 and month December , the following foods were omitted due to lack of nutritional information: 41 : Ahuyamín (Sakata), Arveja verde en vaina, Azúcar refinada, Bagre rayado en postas congelado, Banano Urabá, Bocachico criollo fresco, Bocadillo veleño, Borojó, Cachama de cultivo fresca, Calabaza, Carne de cerdo, cabeza de lomo, Carne de cerdo, pernil con hueso, Carne de res, bota, Carne de res, centro de pierna, Carne de res, lomo fino, Carne de res, murillo, Cebolla cabezona blanca, Cebolla junca, Chocolate dulce, Cidra, Fríjol bolón, Fríjol cargamanto rojo, Garbanzo importado, Huevo rojo B, Maíz pira, Menudencias de pollo, Muslos de pollo sin rabadilla, Naranja Valencia, Panela cuadrada morena, Papa superior, Papaya Paulina, Papaya tainung, Pepino de rellenar, Pera nacional, Pitahaya, Plátano guineo, Pollo entero fresco sin vísceras, Remolacha, Tangelo, Tilapia roja entera fresca, Yuca llanera . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Villavicencio _ 2023 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1001.056
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2519.774CoRD: Average daily cost per 1000 kilocalories is 4398.522

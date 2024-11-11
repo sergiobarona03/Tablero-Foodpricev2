@@ -1,0 +1,1057 @@
+
+In the city of Cali for the year 2013 and month January , the following foods were omitted due to lack of nutritional information: 45 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa Morasurco, Papa nevada, Papa R-12 negra, Papa roja peruana, Papaya hawaiana, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Róbalo, filete congelado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  598.5992
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1044.937CoRD: Average daily cost per 1000 kilocalories is 1715.819
+In the city of Cali for the year 2013 and month February , the following foods were omitted due to lack of nutritional information: 44 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa Morasurco, Papa nevada, Papa R-12 negra, Papa roja peruana, Papaya hawaiana, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  600.4531
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1042.052CoRD: Average daily cost per 1000 kilocalories is 1706.355
+In the city of Cali for the year 2013 and month March , the following foods were omitted due to lack of nutritional information: 42 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa Morasurco, Papa nevada, Papa roja peruana, Papaya hawaiana, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  603.5122
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1041.549CoRD: Average daily cost per 1000 kilocalories is 1704.486
+In the city of Cali for the year 2013 and month April , the following foods were omitted due to lack of nutritional information: 42 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa Morasurco, Papa nevada, Papa roja peruana, Papaya hawaiana, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  606.9385
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1038.095CoRD: Average daily cost per 1000 kilocalories is 1702.473
+In the city of Cali for the year 2013 and month May , the following foods were omitted due to lack of nutritional information: 41 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa Morasurco, Papa nevada, Papa roja peruana, Papaya hawaiana, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  609.9791
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1039.019CoRD: Average daily cost per 1000 kilocalories is 1706.02
+In the city of Cali for the year 2013 and month June , the following foods were omitted due to lack of nutritional information: 40 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa Morasurco, Papa nevada, Papa roja peruana, Papaya hawaiana, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  611.2767
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1039.454CoRD: Average daily cost per 1000 kilocalories is 1708.262
+In the city of Cali for the year 2013 and month July , the following foods were omitted due to lack of nutritional information: 38 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa Morasurco, Papa nevada, Papa roja peruana, Pargo rojo platero, Pepino de rellenar, Pitahaya, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  613.4599
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1044.015CoRD: Average daily cost per 1000 kilocalories is 1719.773
+In the city of Cali for the year 2013 and month August , the following foods were omitted due to lack of nutritional information: 36 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Pargo rojo platero, Pepino de rellenar, Pitahaya, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  612.5877
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1048.307CoRD: Average daily cost per 1000 kilocalories is 1723.243
+In the city of Cali for the year 2013 and month September , the following foods were omitted due to lack of nutritional information: 35 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Pargo rojo platero, Pepino de rellenar, Pitahaya, Pollo entero congelado con vísceras, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  604.4749
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1041.079CoRD: Average daily cost per 1000 kilocalories is 1693.108
+In the city of Cali for the year 2013 and month October , the following foods were omitted due to lack of nutritional information: 33 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Pargo rojo platero, Pepino de rellenar, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  593.6806
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1045.146CoRD: Average daily cost per 1000 kilocalories is 1679.083
+In the city of Cali for the year 2013 and month November , the following foods were omitted due to lack of nutritional information: 33 : Badea, Berenjena, Calabacín, Calamar morado entero, Camarón tití precocido seco, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Pargo rojo platero, Pepino de rellenar, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  587.8245
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1062.251CoRD: Average daily cost per 1000 kilocalories is 1703.213
+In the city of Cali for the year 2013 and month December , the following foods were omitted due to lack of nutritional information: 31 : Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Pargo rojo platero, Pepino de rellenar, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2013 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  590.7089
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1093.237CoRD: Average daily cost per 1000 kilocalories is 1709.499
+In the city of Cali for the year 2014 and month January , the following foods were omitted due to lack of nutritional information: 40 : Badea, Bagre rayado en postas congelado, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca ecuatoriana, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  615.3116
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1108.886CoRD: Average daily cost per 1000 kilocalories is 1623.914
+In the city of Cali for the year 2014 and month February , the following foods were omitted due to lack of nutritional information: 39 : Badea, Bagre rayado en postas congelado, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  612.6416
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1108.09CoRD: Average daily cost per 1000 kilocalories is 1611.442
+In the city of Cali for the year 2014 and month March , the following foods were omitted due to lack of nutritional information: 39 : Badea, Bagre rayado en postas congelado, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  610.0565
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1108.195CoRD: Average daily cost per 1000 kilocalories is 1597.468
+In the city of Cali for the year 2014 and month April , the following foods were omitted due to lack of nutritional information: 39 : Badea, Bagre rayado en postas congelado, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  609.6054
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1109.31CoRD: Average daily cost per 1000 kilocalories is 1590.256
+In the city of Cali for the year 2014 and month May , the following foods were omitted due to lack of nutritional information: 39 : Badea, Bagre rayado en postas congelado, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Mango Kent, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  608.3266
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1105.664CoRD: Average daily cost per 1000 kilocalories is 1572.441
+In the city of Cali for the year 2014 and month June , the following foods were omitted due to lack of nutritional information: 37 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  609.9641
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1103.039CoRD: Average daily cost per 1000 kilocalories is 1565.782
+In the city of Cali for the year 2014 and month July , the following foods were omitted due to lack of nutritional information: 37 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa criolla para lavar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  611.3035
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1106.997CoRD: Average daily cost per 1000 kilocalories is 1570.714
+In the city of Cali for the year 2014 and month August , the following foods were omitted due to lack of nutritional information: 35 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  616.1039
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1110.611CoRD: Average daily cost per 1000 kilocalories is 1589.68
+In the city of Cali for the year 2014 and month September , the following foods were omitted due to lack of nutritional information: 35 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco AA, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  617.7025
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1114.871CoRD: Average daily cost per 1000 kilocalories is 1591.853
+In the city of Cali for the year 2014 and month October , the following foods were omitted due to lack of nutritional information: 34 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  616.3351
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1122.606CoRD: Average daily cost per 1000 kilocalories is 1577.096
+In the city of Cali for the year 2014 and month November , the following foods were omitted due to lack of nutritional information: 34 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  612.5223
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1135.506CoRD: Average daily cost per 1000 kilocalories is 1568.078
+In the city of Cali for the year 2014 and month December , the following foods were omitted due to lack of nutritional information: 34 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2014 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  618.4291
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1158.524CoRD: Average daily cost per 1000 kilocalories is 1560.256
+In the city of Cali for the year 2015 and month January , the following foods were omitted due to lack of nutritional information: 35 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  641.978
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1217.809CoRD: Average daily cost per 1000 kilocalories is 1828.051
+In the city of Cali for the year 2015 and month February , the following foods were omitted due to lack of nutritional information: 35 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Maíz amarillo cáscara, Mango de azúcar, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  642.8062
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1222.784CoRD: Average daily cost per 1000 kilocalories is 1845.241
+In the city of Cali for the year 2015 and month March , the following foods were omitted due to lack of nutritional information: 33 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  644.5032
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1230.292CoRD: Average daily cost per 1000 kilocalories is 1867.519
+In the city of Cali for the year 2015 and month April , the following foods were omitted due to lack of nutritional information: 33 : Badea, Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Pitahaya, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tangelo, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  646.5565
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1240.147CoRD: Average daily cost per 1000 kilocalories is 1882.479
+In the city of Cali for the year 2015 and month May , the following foods were omitted due to lack of nutritional information: 29 : Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  649.8146
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1247.711CoRD: Average daily cost per 1000 kilocalories is 1908.152
+In the city of Cali for the year 2015 and month June , the following foods were omitted due to lack of nutritional information: 29 : Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  653.9367
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1256.07CoRD: Average daily cost per 1000 kilocalories is 1934.57
+In the city of Cali for the year 2015 and month July , the following foods were omitted due to lack of nutritional information: 29 : Berenjena, Calabacín, Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona blanca peruana, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Galletas saladas 3 tacos, Huevo blanco extra, Limón común valluno, Manteca, Naranja común, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Pepino de rellenar, Plátano hartón verde ecuatoriano, Rábano rojo, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  658.2919
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1266.569CoRD: Average daily cost per 1000 kilocalories is 1965.229
+In the city of Cali for the year 2015 and month August , the following foods were omitted due to lack of nutritional information: 21 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla cabezona roja peruana, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Huevo blanco extra, Limón común valluno, Manteca, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  666.1333
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1280.96CoRD: Average daily cost per 1000 kilocalories is 1999.585
+In the city of Cali for the year 2015 and month September , the following foods were omitted due to lack of nutritional information: 20 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Cebolla puerro, Fécula de maíz, Fríjol bolón, Huevo blanco extra, Limón común valluno, Manteca, Naranja Valencia, Palmitos de mar, Papa nevada, Papa R-12 negra, Pargo rojo platero, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  673.0901
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1294.949CoRD: Average daily cost per 1000 kilocalories is 2029.399
+In the city of Cali for the year 2015 and month October , the following foods were omitted due to lack of nutritional information: 17 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Cebolla puerro, Fríjol bolón, Huevo blanco extra, Limón común valluno, Naranja Valencia, Papa nevada, Papa R-12 negra, Pargo rojo platero, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  673.1214
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1303.104CoRD: Average daily cost per 1000 kilocalories is 2040.939
+In the city of Cali for the year 2015 and month November , the following foods were omitted due to lack of nutritional information: 17 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Cebolla puerro, Fríjol bolón, Huevo blanco extra, Limón común valluno, Naranja Valencia, Papa nevada, Papa R-12 negra, Pargo rojo platero, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  673.2776
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1315.565CoRD: Average daily cost per 1000 kilocalories is 2013.796
+In the city of Cali for the year 2015 and month December , the following foods were omitted due to lack of nutritional information: 15 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Huevo blanco extra, Limón común valluno, Naranja Valencia, Papa nevada, Papa R-12 negra, Pargo rojo platero, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2015 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  672.7151
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1336.914CoRD: Average daily cost per 1000 kilocalories is 2062.663
+In the city of Cali for the year 2016 and month January , the following foods were omitted due to lack of nutritional information: 19 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Huevo blanco extra, Limón común valluno, Naranja Valencia, Papa nevada, Papa R-12 negra, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  673.1192
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1418.631CoRD: Average daily cost per 1000 kilocalories is 2294.518
+In the city of Cali for the year 2016 and month February , the following foods were omitted due to lack of nutritional information: 19 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Huevo blanco extra, Limón común valluno, Naranja Valencia, Papa nevada, Papa R-12 negra, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  671.3159
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1422.495CoRD: Average daily cost per 1000 kilocalories is 2303.118
+In the city of Cali for the year 2016 and month March , the following foods were omitted due to lack of nutritional information: 19 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Huevo blanco extra, Limón común valluno, Naranja Valencia, Papa nevada, Papa R-12 negra, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  667.6725
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1424.854CoRD: Average daily cost per 1000 kilocalories is 2309.223
+In the city of Cali for the year 2016 and month April , the following foods were omitted due to lack of nutritional information: 18 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Huevo blanco extra, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  662.9642
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1427.479CoRD: Average daily cost per 1000 kilocalories is 2295.723
+In the city of Cali for the year 2016 and month May , the following foods were omitted due to lack of nutritional information: 17 : Calamar morado entero, Carne de cerdo, tocino barriga, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  656.8589
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1423.484CoRD: Average daily cost per 1000 kilocalories is 2263.862
+In the city of Cali for the year 2016 and month June , the following foods were omitted due to lack of nutritional information: 16 : Calamar morado entero, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  655.5198
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1413.843CoRD: Average daily cost per 1000 kilocalories is 2235.884
+In the city of Cali for the year 2016 and month July , the following foods were omitted due to lack of nutritional information: 16 : Calamar morado entero, Carne de res, lomo de brazo, Carne de res, lomo fino, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  654.3313
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1405.596CoRD: Average daily cost per 1000 kilocalories is 2167.705
+In the city of Cali for the year 2016 and month August , the following foods were omitted due to lack of nutritional information: 14 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  653.3497
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1390.562CoRD: Average daily cost per 1000 kilocalories is 2075.007
+In the city of Cali for the year 2016 and month September , the following foods were omitted due to lack of nutritional information: 14 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  656.0261
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1386.413CoRD: Average daily cost per 1000 kilocalories is 2061.334
+In the city of Cali for the year 2016 and month October , the following foods were omitted due to lack of nutritional information: 14 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  661.5177
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1400.648CoRD: Average daily cost per 1000 kilocalories is 1995.468
+In the city of Cali for the year 2016 and month November , the following foods were omitted due to lack of nutritional information: 14 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  672.4151
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1415.999CoRD: Average daily cost per 1000 kilocalories is 1956.654
+In the city of Cali for the year 2016 and month December , the following foods were omitted due to lack of nutritional information: 14 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2016 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  696.8109
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1421.785CoRD: Average daily cost per 1000 kilocalories is 1912.771
+In the city of Cali for the year 2017 and month January , the following foods were omitted due to lack of nutritional information: 14 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  778.1156
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1382.228CoRD: Average daily cost per 1000 kilocalories is 1937.177
+In the city of Cali for the year 2017 and month February , the following foods were omitted due to lack of nutritional information: 14 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Fríjol bolón, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Plátano hartón verde ecuatoriano, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  774.6879
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1371.074CoRD: Average daily cost per 1000 kilocalories is 1947.143
+In the city of Cali for the year 2017 and month March , the following foods were omitted due to lack of nutritional information: 12 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Cebolla junca pastusa, Limón común valluno, Naranja Valencia, Papa nevada, Pargo rojo platero, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  773.4072
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1366.633CoRD: Average daily cost per 1000 kilocalories is 1961.704
+In the city of Cali for the year 2017 and month April , the following foods were omitted due to lack of nutritional information: 8 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado, Uva roja . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  772.3846
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1366.24CoRD: Average daily cost per 1000 kilocalories is 1969.817
+In the city of Cali for the year 2017 and month May , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  771.649
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1361.406CoRD: Average daily cost per 1000 kilocalories is 1976.525
+In the city of Cali for the year 2017 and month June , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  770.5172
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1364.025CoRD: Average daily cost per 1000 kilocalories is 1993.863
+In the city of Cali for the year 2017 and month July , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  769.1347
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1374.284CoRD: Average daily cost per 1000 kilocalories is 1996.8
+In the city of Cali for the year 2017 and month August , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  768.1978
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1380.271CoRD: Average daily cost per 1000 kilocalories is 1996.891
+In the city of Cali for the year 2017 and month September , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  766.5752
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1382.79CoRD: Average daily cost per 1000 kilocalories is 2004.414
+In the city of Cali for the year 2017 and month October , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  757.7998
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1385.752CoRD: Average daily cost per 1000 kilocalories is 2002.179
+In the city of Cali for the year 2017 and month November , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  754.4844
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1388.741CoRD: Average daily cost per 1000 kilocalories is 1990.656
+In the city of Cali for the year 2017 and month December , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2017 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  753.7369
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1386.747CoRD: Average daily cost per 1000 kilocalories is 1963.594
+In the city of Cali for the year 2018 and month January , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  747.7362
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1377.321CoRD: Average daily cost per 1000 kilocalories is 1998.732
+In the city of Cali for the year 2018 and month February , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  745.5031
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1376.009CoRD: Average daily cost per 1000 kilocalories is 2001.057
+In the city of Cali for the year 2018 and month March , the following foods were omitted due to lack of nutritional information: 7 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Limón común valluno, Repollo morado, Tomate chonto regional, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  744.5273
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1377.553CoRD: Average daily cost per 1000 kilocalories is 2002.459
+In the city of Cali for the year 2018 and month April , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  744.2391
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1377.616CoRD: Average daily cost per 1000 kilocalories is 1998.889
+In the city of Cali for the year 2018 and month May , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  742.8614
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1373.957CoRD: Average daily cost per 1000 kilocalories is 2000.976
+In the city of Cali for the year 2018 and month June , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  742.1133
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1377.053CoRD: Average daily cost per 1000 kilocalories is 2004.316
+In the city of Cali for the year 2018 and month July , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  741.55
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1383.644CoRD: Average daily cost per 1000 kilocalories is 2008.048
+In the city of Cali for the year 2018 and month August , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  740.7613
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1394.482CoRD: Average daily cost per 1000 kilocalories is 2007.341
+In the city of Cali for the year 2018 and month September , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  739.5784
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1404.86CoRD: Average daily cost per 1000 kilocalories is 2007.353
+In the city of Cali for the year 2018 and month October , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  737.6067
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1424.442CoRD: Average daily cost per 1000 kilocalories is 1992.757
+In the city of Cali for the year 2018 and month November , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  733.6635
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1446.559CoRD: Average daily cost per 1000 kilocalories is 2001.914
+In the city of Cali for the year 2018 and month December , the following foods were omitted due to lack of nutritional information: 4 : Calamar morado entero, Cebolla cabezona blanca importada, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2018 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  721.8337
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1445.112CoRD: Average daily cost per 1000 kilocalories is 2012.72
+In the city of Cali for the year 2019 and month January , the following foods were omitted due to lack of nutritional information: 4 : Calamar morado entero, Cebolla cabezona blanca importada, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  730.6246
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1409.471CoRD: Average daily cost per 1000 kilocalories is 2117.378
+In the city of Cali for the year 2019 and month February , the following foods were omitted due to lack of nutritional information: 4 : Calamar morado entero, Cebolla cabezona blanca importada, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  702.5153
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1373.011CoRD: Average daily cost per 1000 kilocalories is 2030.359
+In the city of Cali for the year 2019 and month March , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  709.4613
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1362.121CoRD: Average daily cost per 1000 kilocalories is 2092.599
+In the city of Cali for the year 2019 and month April , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  739.1985
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1389.558CoRD: Average daily cost per 1000 kilocalories is 2075.783
+In the city of Cali for the year 2019 and month May , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  747.0127
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1402.441CoRD: Average daily cost per 1000 kilocalories is 2055.69
+In the city of Cali for the year 2019 and month June , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  751.0283
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1413.728CoRD: Average daily cost per 1000 kilocalories is 2085.897
+In the city of Cali for the year 2019 and month July , the following foods were omitted due to lack of nutritional information: 4 : Calamar morado entero, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  758.8425
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1412.45CoRD: Average daily cost per 1000 kilocalories is 2118.132
+In the city of Cali for the year 2019 and month August , the following foods were omitted due to lack of nutritional information: 5 : Calamar morado entero, Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  785.8665
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1411.703CoRD: Average daily cost per 1000 kilocalories is 2192.872
+In the city of Cali for the year 2019 and month September , the following foods were omitted due to lack of nutritional information: 4 : Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  790.5333
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1417.272CoRD: Average daily cost per 1000 kilocalories is 2256.18
+In the city of Cali for the year 2019 and month October , the following foods were omitted due to lack of nutritional information: 4 : Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  780.2229
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1414.259CoRD: Average daily cost per 1000 kilocalories is 2200.598
+In the city of Cali for the year 2019 and month November , the following foods were omitted due to lack of nutritional information: 3 : Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  799.4327
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1440.142CoRD: Average daily cost per 1000 kilocalories is 2170.647
+In the city of Cali for the year 2019 and month December , the following foods were omitted due to lack of nutritional information: 3 : Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2019 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  815.6037
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1459.385CoRD: Average daily cost per 1000 kilocalories is 2175.357
+In the city of Cali for the year 2020 and month January , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  772.9055
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1437.107CoRD: Average daily cost per 1000 kilocalories is 2121.47
+In the city of Cali for the year 2020 and month February , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  812.5649
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1439.828CoRD: Average daily cost per 1000 kilocalories is 2111.77
+In the city of Cali for the year 2020 and month March , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  830.9065
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1457.89CoRD: Average daily cost per 1000 kilocalories is 2246.862
+In the city of Cali for the year 2020 and month April , the following foods were omitted due to lack of nutritional information: 3 : Calamar morado entero, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  899.7037
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1501.497CoRD: Average daily cost per 1000 kilocalories is 2229.302
+In the city of Cali for the year 2020 and month May , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  912.6423
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1610.459CoRD: Average daily cost per 1000 kilocalories is 2304.839
+In the city of Cali for the year 2020 and month June , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  918.0803
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1609.398CoRD: Average daily cost per 1000 kilocalories is 2294.355
+In the city of Cali for the year 2020 and month July , the following foods were omitted due to lack of nutritional information: 3 : Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  932.6649
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1564.628CoRD: Average daily cost per 1000 kilocalories is 2190.024
+In the city of Cali for the year 2020 and month August , the following foods were omitted due to lack of nutritional information: 3 : Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  946.489
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1513.521CoRD: Average daily cost per 1000 kilocalories is 2252.613
+In the city of Cali for the year 2020 and month September , the following foods were omitted due to lack of nutritional information: 3 : Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  858.1232
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1484.252CoRD: Average daily cost per 1000 kilocalories is 2220.198
+In the city of Cali for the year 2020 and month October , the following foods were omitted due to lack of nutritional information: 3 : Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  723.3602
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1454.461CoRD: Average daily cost per 1000 kilocalories is 2178.702
+In the city of Cali for the year 2020 and month November , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  711.4694
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1450.668CoRD: Average daily cost per 1000 kilocalories is 2129.001
+In the city of Cali for the year 2020 and month December , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2020 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  834.3415
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1487.661CoRD: Average daily cost per 1000 kilocalories is 2098.239
+In the city of Cali for the year 2021 and month January , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  835.0306
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1525.249CoRD: Average daily cost per 1000 kilocalories is 2126.328
+In the city of Cali for the year 2021 and month February , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  840.023
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1536.521CoRD: Average daily cost per 1000 kilocalories is 2160.671
+In the city of Cali for the year 2021 and month March , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  839.2633
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1517.612CoRD: Average daily cost per 1000 kilocalories is 2232.537
+In the city of Cali for the year 2021 and month April , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  858.7987
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1522.288CoRD: Average daily cost per 1000 kilocalories is 2292.015
+In the city of Cali for the year 2021 and month May , the following foods were omitted due to lack of nutritional information: 1 : Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  917.622
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1637.043CoRD: Average daily cost per 1000 kilocalories is 2781.013
+In the city of Cali for the year 2021 and month June , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  956.5159
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1662.664CoRD: Average daily cost per 1000 kilocalories is 2449.787
+In the city of Cali for the year 2021 and month July , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  885.7415
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1568.891CoRD: Average daily cost per 1000 kilocalories is 2433.674
+In the city of Cali for the year 2021 and month August , the following foods were omitted due to lack of nutritional information: 2 : Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  840.5518
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1676.435CoRD: Average daily cost per 1000 kilocalories is 2508.691
+In the city of Cali for the year 2021 and month September , the following foods were omitted due to lack of nutritional information: 3 : Cebolla cabezona blanca pastusa, Repollo morado, Toyo blanco, filete congelado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  820.7741
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1797.806CoRD: Average daily cost per 1000 kilocalories is 2576.466
+In the city of Cali for the year 2021 and month October , the following foods were omitted due to lack of nutritional information: 2 : Cebolla cabezona blanca pastusa, Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  790.1877
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  1882.117CoRD: Average daily cost per 1000 kilocalories is 2694.684
+In the city of Cali for the year 2021 and month November , the following foods were omitted due to lack of nutritional information: 6 : Cebolla cabezona blanca pastusa, Limón común valluno, Mandarina arrayana, Repollo blanco valluno, Repollo morado, Tomate chonto valluno . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  780.5288
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2435.346CoRD: Average daily cost per 1000 kilocalories is 2170.384
+In the city of Cali for the year 2021 and month December , the following foods were omitted due to lack of nutritional information: 4 : Cebolla cabezona blanca pastusa, Limón común valluno, Mandarina arrayana, Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2021 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  810.1953
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2497.908CoRD: Average daily cost per 1000 kilocalories is 2273.146
+In the city of Cali for the year 2022 and month January , the following foods were omitted due to lack of nutritional information: 2 : Cebolla cabezona blanca pastusa, Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  861.2494
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2087.349CoRD: Average daily cost per 1000 kilocalories is 2973.246
+In the city of Cali for the year 2022 and month February , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  892.0658
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2036.029CoRD: Average daily cost per 1000 kilocalories is 3086.635
+In the city of Cali for the year 2022 and month March , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  1001.763
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2031.02CoRD: Average daily cost per 1000 kilocalories is 3206.209
+In the city of Cali for the year 2022 and month April , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  1092.142
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2055.631CoRD: Average daily cost per 1000 kilocalories is 3496.016
+In the city of Cali for the year 2022 and month May , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  1143.541
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2101.487CoRD: Average daily cost per 1000 kilocalories is 3379.576
+In the city of Cali for the year 2022 and month June , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1134.802
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2110.896CoRD: Average daily cost per 1000 kilocalories is 3409.125
+In the city of Cali for the year 2022 and month July , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1124.339
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2115.799CoRD: Average daily cost per 1000 kilocalories is 3574.562
+In the city of Cali for the year 2022 and month August , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1169.758
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2173.281CoRD: Average daily cost per 1000 kilocalories is 3559.351
+In the city of Cali for the year 2022 and month September , the following foods were omitted due to lack of nutritional information: 2 : Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1192.066
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2253.064CoRD: Average daily cost per 1000 kilocalories is 3696.433
+In the city of Cali for the year 2022 and month October , the following foods were omitted due to lack of nutritional information: 1 : Cebolla cabezona blanca importada . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1217.363
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2326.659CoRD: Average daily cost per 1000 kilocalories is 4059.579
+In the city of Cali for the year 2022 and month November , the following foods were omitted due to lack of nutritional information: 2 : Cebolla cabezona blanca importada, Cebolla cabezona blanca pastusa . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1243.515
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2419.285CoRD: Average daily cost per 1000 kilocalories is 4148.581
+In the city of Cali for the year 2022 and month December , the following foods were omitted due to lack of nutritional information: 1 : Cebolla cabezona blanca importada . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2022 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1230.389
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2501.471CoRD: Average daily cost per 1000 kilocalories is 4323.473
+In the city of Cali for the year 2023 and month January , the following foods were omitted due to lack of nutritional information: 1 : Cebolla cabezona blanca importada . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ January"
+
+CoCA: Average daily cost per 1000 kilocalories is  1256.735
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2563.665CoRD: Average daily cost per 1000 kilocalories is 4373.608
+In the city of Cali for the year 2023 and month February , the following foods were omitted due to lack of nutritional information: 1 : Cebolla cabezona blanca importada . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ February"
+
+CoCA: Average daily cost per 1000 kilocalories is  1343.972
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2546.518CoRD: Average daily cost per 1000 kilocalories is 4205.128
+In the city of Cali for the year 2023 and month March , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ March"
+
+CoCA: Average daily cost per 1000 kilocalories is  1357.186
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2436.954CoRD: Average daily cost per 1000 kilocalories is 4135.623
+In the city of Cali for the year 2023 and month April , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ April"
+
+CoCA: Average daily cost per 1000 kilocalories is  1377.654
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2436.229CoRD: Average daily cost per 1000 kilocalories is 3959.552
+In the city of Cali for the year 2023 and month May , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ May"
+
+CoCA: Average daily cost per 1000 kilocalories is  1372.365
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2427.793CoRD: Average daily cost per 1000 kilocalories is 3926.367
+In the city of Cali for the year 2023 and month June , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ June"
+
+CoCA: Average daily cost per 1000 kilocalories is  1347.988
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2451.592CoRD: Average daily cost per 1000 kilocalories is 3840.3
+In the city of Cali for the year 2023 and month July , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ July"
+
+CoCA: Average daily cost per 1000 kilocalories is  1338.444
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2436.667CoRD: Average daily cost per 1000 kilocalories is 3818.804
+In the city of Cali for the year 2023 and month August , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ August"
+
+CoCA: Average daily cost per 1000 kilocalories is  1313.032
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2367.133CoRD: Average daily cost per 1000 kilocalories is 3836.389
+In the city of Cali for the year 2023 and month September , the following foods were omitted due to lack of nutritional information: 1 : Repollo morado . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ September"
+
+CoCA: Average daily cost per 1000 kilocalories is  1320.046
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2340.543CoRD: Average daily cost per 1000 kilocalories is 3850.325
+In the city of Cali for the year 2023 and month October , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ October"
+
+CoCA: Average daily cost per 1000 kilocalories is  1323.265
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2353.227CoRD: Average daily cost per 1000 kilocalories is 4022.146
+In the city of Cali for the year 2023 and month November , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ November"
+
+CoCA: Average daily cost per 1000 kilocalories is  1320.391
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2403.36CoRD: Average daily cost per 1000 kilocalories is 4041.15
+In the city of Cali for the year 2023 and month December , the following foods were omitted due to lack of nutritional information: 0 :  . If you have information for these, use the optional parameter called 'Food_income' to input them.
+
+[1] "Cali _ 2023 _ December"
+
+CoCA: Average daily cost per 1000 kilocalories is  1328.785
+The nutrients to use in the model are: Protein, Carbohydrates, Lipids, Calcium, Zinc, Iron, Magnesium, Phosphorus, VitaminC, Thiamine, Riboflavin, Niacin, Folate, VitaminB12, VitaminA, Sodium 
+
+CoNA: Average daily cost per 1000 kilocalories is:  2577.362CoRD: Average daily cost per 1000 kilocalories is 4081.561
